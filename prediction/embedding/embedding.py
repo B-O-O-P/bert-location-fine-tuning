@@ -1,15 +1,19 @@
 import torch
 import torch.nn as nn
 import nltk
+
 from string import punctuation
+from tqdm.notebook import tqdm
 
 torch.manual_seed(1)
 
 nltk.download('punkt')
 
-def vocabulary_from_texts(texts):
+def vocabulary_from_texts(texts, verbose=False):
     vocab = set()
 
+    if verbose:
+        texts = tqdm(texts)
     for text in texts:
         sentences = nltk.tokenize.sent_tokenize(text)
         for sentence in sentences:
@@ -29,10 +33,8 @@ class VocabularyEmbedding(nn.Embedding):
         self.vocabulary = vocabulary
         self.vocabulary_length = len(vocabulary)
         self.word_to_ix = {word: i for i, word in enumerate(vocabulary)}
-        super(VocabularyEmbedding, self).__init__(self.vocabulary_length, self.embedding_size)
+        super(VocabularyEmbedding, self).__init__(self.vocabulary_length, self.embedding_size, padding_idx=0)
 
     def __call__(self, *args, **kwargs):
-        word = args[0]
-        lookup_tensor =  torch.tensor([self.word_to_ix[word]], dtype=torch.long)
-        return super(VocabularyEmbedding, self).__call__(lookup_tensor)
+        return super(VocabularyEmbedding, self).__call__(*args)
 
