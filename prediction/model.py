@@ -2,14 +2,19 @@ from transformers import BertModel
 from torch import bmm, nn
 
 class BERT(nn.Module):
-    def __init__(self, embedding=None):
+    def __init__(self, vocabulary_length, hidden_dim):
         super(BERT, self).__init__()
         # Изначальная модель
-        self.model = BertModel.from_pretrained('bert-base-uncased', output_hidden_states=True, )
+        self.model = BertModel.from_pretrained('bert-base-uncased')
+
+        # Фризим параметры изначального берта
+        for param in self.model.parameters():
+            param.requires_grad = False
+
         # Эмбеддинг
-        self.embedding = embedding
+        self.embedding = nn.Embedding(vocabulary_length, hidden_dim)
         # Линейный слой
-        self.linear = nn.Linear(768, 256)
+        self.linear = nn.Linear(768, hidden_dim)
 
     def forward(self, input_ids, input_background, input_mask=None, token_type_ids=None):
         # Получение cls токена
