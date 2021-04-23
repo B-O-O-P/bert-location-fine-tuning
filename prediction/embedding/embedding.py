@@ -19,11 +19,11 @@ def vocabulary_from_texts(texts, verbose=False):
         for sentence in sentences:
             lowered_text = (sentence.translate(str.maketrans('', '', punctuation))).lower()
             words_no = lowered_text.split(' ')
-            Lem = nltk.WordNetLemmatizer()
-            words = [Lem.lemmatize(word) for word in words_no]
+            words = [word.strip() for word in words_no]
             vocab.update(words)
 
-    vocab.remove('')
+    if '' in vocab:
+        vocab.remove('')
 
     return vocab
 
