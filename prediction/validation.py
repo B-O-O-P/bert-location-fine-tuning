@@ -21,8 +21,6 @@ LOG_FILENAME = 'validation-log.txt'
 if not os.path.exists(LOG_DIRECTORY):
     os.makedirs(LOG_DIRECTORY)
 
-open('{}/{}'.format(LOG_DIRECTORY, LOG_FILENAME)).close()
-
 logging.basicConfig(filename='{}/{}'.format(LOG_DIRECTORY, LOG_FILENAME), filemode='a', level=logging.INFO, format='%(message)s')
 
 logging.info('{} BERT PREDICTION FINE-TUNING {}'.format(8 * '=', 8 * '='))
