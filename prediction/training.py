@@ -1,3 +1,6 @@
+import sys
+sys.path.append("../prediction")
+
 import os
 import logging
 
