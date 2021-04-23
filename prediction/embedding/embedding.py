@@ -1,7 +1,3 @@
-import sys
-sys.path.append("../prediction/embedding")
-
-
 import torch
 import torch.nn as nn
 import nltk

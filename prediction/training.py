@@ -1,6 +1,3 @@
-import sys
-sys.path.append("../prediction")
-
 import os
 import logging
 
@@ -15,8 +12,8 @@ from torch.nn import functional as F
 from torch import optim as optim
 from transformers import BertTokenizer
 
-from prediction.embedding.embedding import vocabulary_from_texts, VocabularyEmbedding
-from prediction.model import BERT
+from embedding.embedding import vocabulary_from_texts, VocabularyEmbedding
+from model import BERT
 
 # Logging
 
