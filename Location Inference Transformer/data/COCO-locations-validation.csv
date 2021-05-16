@@ -1,0 +1,1226 @@
+id,cap,url,location
+566524,Two people walking along a side walk next to a train on the tracks.,http://images.cocodataset.org/val2017/000000566524.jpg,['track']
+287874,A train traveling down train tracks under parking lights.,http://images.cocodataset.org/val2017/000000287874.jpg,['track']
+537153,two people sitting on a bench next to the ocean,http://images.cocodataset.org/val2017/000000537153.jpg,['ocean']
+391290,Two women playing with a Frisbee in a field.,http://images.cocodataset.org/val2017/000000391290.jpg,['field']
+79188,Two giraffes standing in a field looking in the same direction.,http://images.cocodataset.org/val2017/000000079188.jpg,['field']
+500613,A fire truck sitting in the stations park lot.,http://images.cocodataset.org/val2017/000000500613.jpg,"['station', 'park']"
+287714,a bathroom with a tub and sink inside of it,http://images.cocodataset.org/val2017/000000287714.jpg,['bathroom']
+166642,An elephant standing on top of a rocky hillside.,http://images.cocodataset.org/val2017/000000166642.jpg,"['hillside', 'top']"
+500211,a spooky looking hotel resort in the hills,http://images.cocodataset.org/val2017/000000500211.jpg,"['hill', 'hotel']"
+566282,Two men are kicking a soccer ball on the city sidewalk.,http://images.cocodataset.org/val2017/000000566282.jpg,"['city', 'sidewalk']"
+326128,A man standing on a snowboard on a mountain peak.,http://images.cocodataset.org/val2017/000000326128.jpg,['mountain']
+569565,a yellow truck and a white truck and a road and trees,http://images.cocodataset.org/val2017/000000569565.jpg,"['road', 'tree']"
+33221,Two women at a beach with tennis rackets in their hands and one girl looking very excited with her tennis racket in the air.,http://images.cocodataset.org/val2017/000000033221.jpg,['beach']
+443303,An orange and white cat laying on top of a bag of luggage.,http://images.cocodataset.org/val2017/000000443303.jpg,['top']
+460160,a white bird some sand water rocks and grass,http://images.cocodataset.org/val2017/000000460160.jpg,"['water', 'grass', 'rock']"
+201072,there is a male tennis player playing on the court,http://images.cocodataset.org/val2017/000000201072.jpg,['court']
+577149,Several Zebras are standing near a tree in the wild.,http://images.cocodataset.org/val2017/000000577149.jpg,"['wild', 'tree']"
+261888,A man on a bicycle misses two horses on the highway.,http://images.cocodataset.org/val2017/000000261888.jpg,['highway']
+426329,"Rows of cylindrical cakes for sale in a bakery, seen behind glass.",http://images.cocodataset.org/val2017/000000426329.jpg,['bakery']
+317024,A zebra is next to fences standing on white ground.,http://images.cocodataset.org/val2017/000000317024.jpg,['ground']
+386912,A woman sitting at a desk in her work station,http://images.cocodataset.org/val2017/000000386912.jpg,['station']
+498463,A stainless steel refrigerator in a kitchen,http://images.cocodataset.org/val2017/000000498463.jpg,['kitchen']
+165336,Two giraffe standing next to each other on a field.,http://images.cocodataset.org/val2017/000000165336.jpg,['field']
+277051,A couple of small birds standing on top of a table.,http://images.cocodataset.org/val2017/000000277051.jpg,['top']
+249129,Teddy bears sitting around a table and a christmas tree,http://images.cocodataset.org/val2017/000000249129.jpg,['tree']
+57244,"A picture of an old, rusty part of a train",http://images.cocodataset.org/val2017/000000057244.jpg,['part']
+150726,A pair of giraffes walking in an area between a rock and a tree.,http://images.cocodataset.org/val2017/000000150726.jpg,"['rock', 'tree']"
+393469,A man knees down on the side of a snow filled mountainside.,http://images.cocodataset.org/val2017/000000393469.jpg,['snow']
+48564,boy on ski slope talking on cell phone.,http://images.cocodataset.org/val2017/000000048564.jpg,['slope']
+508730,Two naked babies on training toilets in a bathroom,http://images.cocodataset.org/val2017/000000508730.jpg,['bathroom']
+363461,An un-attended office desk with multiple monitors and a laptop computer.,http://images.cocodataset.org/val2017/000000363461.jpg,['office']
+142238,Men playing Aussie Rules football on a green field,http://images.cocodataset.org/val2017/000000142238.jpg,['field']
+322610,A woman walking past a shop filled with merchandise.,http://images.cocodataset.org/val2017/000000322610.jpg,['shop']
+520009,An intersection has a clock tower building in the background.,http://images.cocodataset.org/val2017/000000520009.jpg,"['tower', 'building', 'intersection']"
+101884,Large flat building with a clock and garage.,http://images.cocodataset.org/val2017/000000101884.jpg,"['building', 'garage']"
+110721,a large plane is docked at the airport and connected,http://images.cocodataset.org/val2017/000000110721.jpg,['airport']
+410510,A boy playing tennis on a blue and green tennis court.,http://images.cocodataset.org/val2017/000000410510.jpg,['court']
+45229,"An apartment room with a stove, spices, and bookcase.",http://images.cocodataset.org/val2017/000000045229.jpg,['room']
+269113,A pack of dogs are playing outside in the grass.,http://images.cocodataset.org/val2017/000000269113.jpg,['grass']
+579635,A surfer is riding the waves as a sailboat sails in the background.,http://images.cocodataset.org/val2017/000000579635.jpg,['sailboat']
+94751,A traffic light and a signpost at a crossroads intersection near a waterway.,http://images.cocodataset.org/val2017/000000094751.jpg,['intersection']
+17029,A dog catches a frisbee outside in the grass.,http://images.cocodataset.org/val2017/000000017029.jpg,"['outside', 'grass']"
+280325,Graffiti is on the wall next to the parking meter,http://images.cocodataset.org/val2017/000000280325.jpg,"['parking', 'wall']"
+92660,A pizza covered with lots of broccoli sitting on a kitchen counter.,http://images.cocodataset.org/val2017/000000092660.jpg,['kitchen']
+479030,A large long train on a steel track.,http://images.cocodataset.org/val2017/000000479030.jpg,['track']
+498032,a woman in a pink top with a video game controller,http://images.cocodataset.org/val2017/000000498032.jpg,['top']
+399462,A LITTLE GIRL IS RUNNING WITH HER KITE IN A OPEN FIELD,http://images.cocodataset.org/val2017/000000399462.jpg,['field']
+84170,The bus turns on the road in the rain.,http://images.cocodataset.org/val2017/000000084170.jpg,"['rain', 'road']"
+13201,A skateboarder careening off concrete in a park,http://images.cocodataset.org/val2017/000000013201.jpg,['park']
+369675,A passenger train is sitting at a station.,http://images.cocodataset.org/val2017/000000369675.jpg,['station']
+235836,A toddler hitting the ball with a baseball bat in his backyard.,http://images.cocodataset.org/val2017/000000235836.jpg,['backyard']
+344621,A living room filled with furniture and  set of glass doors.,http://images.cocodataset.org/val2017/000000344621.jpg,['room']
+71877,Skateboarder makes a trick on a highway under construction.,http://images.cocodataset.org/val2017/000000071877.jpg,['highway']
+291791,A group of people look at the dark green motorcycle parked on the grass.,http://images.cocodataset.org/val2017/000000291791.jpg,['grass']
+45229,A kitchen filled with a wooden cabinet and a large window.,http://images.cocodataset.org/val2017/000000045229.jpg,"['kitchen', 'cabinet']"
+557884,A green leafy type plant is located on a wall.,http://images.cocodataset.org/val2017/000000557884.jpg,['wall']
+377723,A group of people that are standing outside of a bus.,http://images.cocodataset.org/val2017/000000377723.jpg,"['outside', 'bus']"
+80659,horses racing on a race track with jockeys.,http://images.cocodataset.org/val2017/000000080659.jpg,['track']
+206271,Two wall mounted urinals sitting next to trash cans.,http://images.cocodataset.org/val2017/000000206271.jpg,['wall']
+543300,The ship prepares to sail from the pier into the sea.,http://images.cocodataset.org/val2017/000000543300.jpg,"['ship', 'pier', 'sea']"
+261982,A person on a skateboard does a flip in a parking lot.,http://images.cocodataset.org/val2017/000000261982.jpg,['parking']
+161875,A woman standing under trees by a field.,http://images.cocodataset.org/val2017/000000161875.jpg,"['field', 'tree']"
+108244,A black cat with a hat on the ground.,http://images.cocodataset.org/val2017/000000108244.jpg,['ground']
+196185,A large airplane is ascending from the runway.,http://images.cocodataset.org/val2017/000000196185.jpg,['runway']
+513524,A young surfer is surfing in the middle of an ocean.,http://images.cocodataset.org/val2017/000000513524.jpg,['ocean']
+573008,A giant Colgate clock sitting on the side of a river.,http://images.cocodataset.org/val2017/000000573008.jpg,['river']
+47740,A man laying on top of a sandy beach.,http://images.cocodataset.org/val2017/000000047740.jpg,"['beach', 'top']"
+292997,a car crashed against a light pole in the snow.,http://images.cocodataset.org/val2017/000000292997.jpg,['snow']
+165518,a person riding a motorcycle on a a foggy road,http://images.cocodataset.org/val2017/000000165518.jpg,['road']
+365098,An empty boat in the water near a tree,http://images.cocodataset.org/val2017/000000365098.jpg,"['water', 'tree']"
+375469,Two people trying to surf on the ocean.,http://images.cocodataset.org/val2017/000000375469.jpg,['ocean']
+540502,a kitchen that has a bunch of cabinets in it,http://images.cocodataset.org/val2017/000000540502.jpg,"['kitchen', 'cabinet']"
+101780,A group of animals that are by a tree.,http://images.cocodataset.org/val2017/000000101780.jpg,['tree']
+81061,A couch sitting on top of a field of grass.,http://images.cocodataset.org/val2017/000000081061.jpg,"['field', 'top', 'grass']"
+458109,a train that is next to a train track,http://images.cocodataset.org/val2017/000000458109.jpg,['track']
+506310,A room with an empty and open refrigerator and a shelf of bottles.,http://images.cocodataset.org/val2017/000000506310.jpg,['room']
+502168,Naval ships are being trained in the ocean.,http://images.cocodataset.org/val2017/000000502168.jpg,"['ship', 'ocean']"
+370478,some luggage and a back back sitting on teh ground next to a lap top,http://images.cocodataset.org/val2017/000000370478.jpg,"['ground', 'top']"
+491725,A group of boats parked in dock on the water.,http://images.cocodataset.org/val2017/000000491725.jpg,"['dock', 'water']"
+263796,A red toilet in a very small bathroom.,http://images.cocodataset.org/val2017/000000263796.jpg,['bathroom']
+370042,There are many vases on display outside the building.,http://images.cocodataset.org/val2017/000000370042.jpg,['building']
+546659,A train is coming down the tracks near a building.,http://images.cocodataset.org/val2017/000000546659.jpg,"['track', 'building']"
+266409,A man that has ski's and is standing in the snow.,http://images.cocodataset.org/val2017/000000266409.jpg,['snow']
+3255,A group of people stand at the bottom of a snowy hill.,http://images.cocodataset.org/val2017/000000003255.jpg,['hill']
+273132,Older woman in dress sitting on a park bench.,http://images.cocodataset.org/val2017/000000273132.jpg,['park']
+452321,Red bus sitting in a bus station parking spot.,http://images.cocodataset.org/val2017/000000452321.jpg,['station']
+38070,a little bathroom with some feet standing next to it,http://images.cocodataset.org/val2017/000000038070.jpg,['foot']
+554838,cereal and juice are placed on top of a fridge,http://images.cocodataset.org/val2017/000000554838.jpg,['top']
+24021,Photo of children at the Goodmayes Boys' School in 1929.,http://images.cocodataset.org/val2017/000000024021.jpg,['school']
+1000,A group of kids posing for a picture on a tennis court.,http://images.cocodataset.org/val2017/000000001000.jpg,['court']
+7888,A pedestal clock strikes 6:55 in a rainy sky.,http://images.cocodataset.org/val2017/000000007888.jpg,['sky']
+222118,A woman is standing near a brick wall,http://images.cocodataset.org/val2017/000000222118.jpg,['wall']
+573094,A view of a room that has a Christmas tree that has been decorated.,http://images.cocodataset.org/val2017/000000573094.jpg,"['room', 'tree']"
+448365,A person on a skateboard on a street.,http://images.cocodataset.org/val2017/000000448365.jpg,['street']
+13291,A group of people playing with Frisbee's on the grass.,http://images.cocodataset.org/val2017/000000013291.jpg,['grass']
+541055,A group of young people standing on top of a snow covered slope.,http://images.cocodataset.org/val2017/000000541055.jpg,"['top', 'snow', 'slope']"
+216739,This giraffe has two horns on the top of its head.,http://images.cocodataset.org/val2017/000000216739.jpg,['top']
+347456,A couple of elephants walking across a lush green field.,http://images.cocodataset.org/val2017/000000347456.jpg,['field']
+266400,A lot of motorcycles that are on the road.,http://images.cocodataset.org/val2017/000000266400.jpg,['road']
+162366,A black parking meter next to a brick building.,http://images.cocodataset.org/val2017/000000162366.jpg,"['parking', 'building']"
+28993,A group of poles in the ground that look a bit like fire hydrants.,http://images.cocodataset.org/val2017/000000028993.jpg,['ground']
+542856,A large white bus on a city street.,http://images.cocodataset.org/val2017/000000542856.jpg,"['street', 'city']"
+530836,A model kitchen from the 1950s showing appliances and cabinets.,http://images.cocodataset.org/val2017/000000530836.jpg,"['kitchen', 'cabinet']"
+207844,"People laying in chairs, walking, and playing in the water on the beach.",http://images.cocodataset.org/val2017/000000207844.jpg,"['beach', 'water']"
+88218,"a pole with street lights, signs and wires attached to it ",http://images.cocodataset.org/val2017/000000088218.jpg,['street']
+66038,A group of people sit underneath umbrellas on the beach.,http://images.cocodataset.org/val2017/000000066038.jpg,['beach']
+86582,A person watering plants with a computer in the foreground.,http://images.cocodataset.org/val2017/000000086582.jpg,['foreground']
+363072,this trains station has a white building in the background,http://images.cocodataset.org/val2017/000000363072.jpg,"['station', 'building']"
+572555,"A modern, electric commuter train coming in to the station",http://images.cocodataset.org/val2017/000000572555.jpg,['station']
+345261,Two giraffes looking across the plains at sunrise.,http://images.cocodataset.org/val2017/000000345261.jpg,['plain']
+549930,Two people are walking with an umbrella on the beach in the rain.,http://images.cocodataset.org/val2017/000000549930.jpg,"['rain', 'beach']"
+180751,A man pouring a glass of wine on top of a wooden table.,http://images.cocodataset.org/val2017/000000180751.jpg,['top']
+105455,"A large, red clock tower is on a street sidewalk.",http://images.cocodataset.org/val2017/000000105455.jpg,"['street', 'tower', 'sidewalk']"
+40083,Two men sitting underneath an umbrella on a sidewalk.,http://images.cocodataset.org/val2017/000000040083.jpg,['sidewalk']
+126592,A stop sign is posted next to a parking lot.,http://images.cocodataset.org/val2017/000000126592.jpg,['parking']
+38118,a man that is skiing down a snowy hill,http://images.cocodataset.org/val2017/000000038118.jpg,['hill']
+140420,A motorcycle is parked on a gravel road in a forest by a stream.,http://images.cocodataset.org/val2017/000000140420.jpg,"['forest', 'road', 'stream']"
+91495,"Baseball players, one on the ground, one in the air.",http://images.cocodataset.org/val2017/000000091495.jpg,['ground']
+485237,Two large jets sitting on top of an airport runway.,http://images.cocodataset.org/val2017/000000485237.jpg,"['airport', 'top', 'runway']"
+325527,a little brown teddy bear sitting alone on top of a carboard box,http://images.cocodataset.org/val2017/000000325527.jpg,['top']
+210394,an old bus on the road and people boarding it,http://images.cocodataset.org/val2017/000000210394.jpg,['road']
+322163,A couple of guys cooking in a restaruant kitchen that is open to the restaurant.,http://images.cocodataset.org/val2017/000000322163.jpg,"['kitchen', 'restaurant']"
+293474,A yellow and black frisbee sitting on a  sidewalk.,http://images.cocodataset.org/val2017/000000293474.jpg,['sidewalk']
+459634,The motorcycle riders travel on the mountain highway.,http://images.cocodataset.org/val2017/000000459634.jpg,"['highway', 'mountain']"
+264535,An old man sitting on a bench in a public park.,http://images.cocodataset.org/val2017/000000264535.jpg,['park']
+389804,a white toilet in a black counter bathroom,http://images.cocodataset.org/val2017/000000389804.jpg,['bathroom']
+284296,three giraffes banding down to drink water with trees in the background,http://images.cocodataset.org/val2017/000000284296.jpg,"['water', 'tree']"
+567197,There are two old trucks parked next to the building.,http://images.cocodataset.org/val2017/000000567197.jpg,['building']
+217948,Three brown bears looking out a cage at the ground below.,http://images.cocodataset.org/val2017/000000217948.jpg,['ground']
+389451,A group of cows walking on a beach and people and a boat in the water.,http://images.cocodataset.org/val2017/000000389451.jpg,"['beach', 'water']"
+248334,Many people ride in the wooden bench along a river.,http://images.cocodataset.org/val2017/000000248334.jpg,['river']
+444275,A microwave that is sitting outside in the street.,http://images.cocodataset.org/val2017/000000444275.jpg,['street']
+8762,Twilight at a city intersection with lit street signs.,http://images.cocodataset.org/val2017/000000008762.jpg,"['street', 'city', 'intersection']"
+2153,there is a male tennis player that is at base,http://images.cocodataset.org/val2017/000000002153.jpg,['base']
+402334,A building is shown against the blue sky.,http://images.cocodataset.org/val2017/000000402334.jpg,"['building', 'sky']"
+457559,Young men avidly playing soccer on a green field,http://images.cocodataset.org/val2017/000000457559.jpg,['field']
+153217,A cat walks next to a motorcycle on a sidewalk.,http://images.cocodataset.org/val2017/000000153217.jpg,['sidewalk']
+464872,Pair of zebras walking in natural field of tall grasses.,http://images.cocodataset.org/val2017/000000464872.jpg,"['field', 'grass']"
+209972,A boat sitting on top of a beach next to the ocean.,http://images.cocodataset.org/val2017/000000209972.jpg,"['beach', 'top', 'ocean']"
+47769,"The small room has a couch, a television, and a table with two stools.",http://images.cocodataset.org/val2017/000000047769.jpg,['room']
+185409,A herd of zebras playing in an open field.,http://images.cocodataset.org/val2017/000000185409.jpg,['field']
+329827,Blurry photograph of a woman skiing down a slope,http://images.cocodataset.org/val2017/000000329827.jpg,['slope']
+82812,A group of people wait for the subway.,http://images.cocodataset.org/val2017/000000082812.jpg,['subway']
+103723,an elephant in a zoo walks around slowly,http://images.cocodataset.org/val2017/000000103723.jpg,['zoo']
+36861,A double parking meter on a pole with a bicycle rack.,http://images.cocodataset.org/val2017/000000036861.jpg,['parking']
+298396,Kitchen area with counter top space and dining room table.,http://images.cocodataset.org/val2017/000000298396.jpg,"['room', 'space']"
+278705,Two skateboarders ride along a graffiti-painted urban road.,http://images.cocodataset.org/val2017/000000278705.jpg,"['road', 'urban']"
+261061,A girl throwing a boomerang in a backyard.,http://images.cocodataset.org/val2017/000000261061.jpg,['backyard']
+507473,In bathroom taking selfie of herself brushing teeth.,http://images.cocodataset.org/val2017/000000507473.jpg,['bathroom']
+473974,A herd of zebra are grazing on tall dry grass.,http://images.cocodataset.org/val2017/000000473974.jpg,['grass']
+311518,A small green boat in a pond outside an office building.,http://images.cocodataset.org/val2017/000000311518.jpg,"['pond', 'building', 'office']"
+466085,A bathroom that is under construction with a standing shower.,http://images.cocodataset.org/val2017/000000466085.jpg,"['bathroom', 'construction']"
+239041,A bathroom with a telivision in it and mirrors.,http://images.cocodataset.org/val2017/000000239041.jpg,['bathroom']
+16010,African animals placidly grazing in a park enclosure.,http://images.cocodataset.org/val2017/000000016010.jpg,['park']
+528862,A herd of giraffe walking through a grass covered hillside.,http://images.cocodataset.org/val2017/000000528862.jpg,"['hillside', 'grass']"
+547519,A bear is running around in a dirt field,http://images.cocodataset.org/val2017/000000547519.jpg,['field']
+170545,It is night and there are street lights on.,http://images.cocodataset.org/val2017/000000170545.jpg,['night']
+33368,there is a male tennis player wearing a blue shirt playing on the court,http://images.cocodataset.org/val2017/000000033368.jpg,['court']
+5992,sheep standing around next to a brick wall,http://images.cocodataset.org/val2017/000000005992.jpg,['wall']
+430377,A woman is standing in the snow wearing a pair of skis.,http://images.cocodataset.org/val2017/000000430377.jpg,['snow']
+433374,A group of elephants standing next to some water.,http://images.cocodataset.org/val2017/000000433374.jpg,['water']
+308793,Two skiers heading up the side of a mountain,http://images.cocodataset.org/val2017/000000308793.jpg,['mountain']
+195754,The spaceous living room has a large television and a fireplace.,http://images.cocodataset.org/val2017/000000195754.jpg,['room']
+162732,Men speak to each other on the rugby field.,http://images.cocodataset.org/val2017/000000162732.jpg,['field']
+79837,Yachts are moored in the lake at night with a full moon,http://images.cocodataset.org/val2017/000000079837.jpg,"['lake', 'night', 'moon']"
+365655,A bus travels down the road next to a mountain.,http://images.cocodataset.org/val2017/000000365655.jpg,"['road', 'mountain']"
+79144,Two young black bears playing at the zoo,http://images.cocodataset.org/val2017/000000079144.jpg,['zoo']
+121586,Office space with cat on the television and work.,http://images.cocodataset.org/val2017/000000121586.jpg,"['space', 'office']"
+289992,A bathroom with white appliances and orange walls.,http://images.cocodataset.org/val2017/000000289992.jpg,"['wall', 'bathroom']"
+1761,A sky photo to jumbo jet airplanes over a bridge.,http://images.cocodataset.org/val2017/000000001761.jpg,['bridge']
+565469,A tall building with a clock tower that is lit up at the top.,http://images.cocodataset.org/val2017/000000565469.jpg,"['top', 'building', 'tower']"
+216419,"A clock tower that is blue reading ""Lenox Hill Hospital""",http://images.cocodataset.org/val2017/000000216419.jpg,"['hill', 'hospital', 'tower']"
+17379,A photo of a video game in the middle of a large mirror in a bathroom.,http://images.cocodataset.org/val2017/000000017379.jpg,['bathroom']
+527616,A picture of someone in the TV on the wall.,http://images.cocodataset.org/val2017/000000527616.jpg,['wall']
+164602,A guy and a girl looking into the bathroom mirror taking a selfie photo with toothbrushes in their mouths.,http://images.cocodataset.org/val2017/000000164602.jpg,['bathroom']
+429761,Two tennis players on tennis court at net shaking hands.,http://images.cocodataset.org/val2017/000000429761.jpg,['court']
+387916,People walking and holding ski boards on snow covered ski slopes.,http://images.cocodataset.org/val2017/000000387916.jpg,"['snow', 'slope']"
+236845,a small street sign sits on a pole,http://images.cocodataset.org/val2017/000000236845.jpg,['street']
+183500,A person is flying a biplane in the sky.,http://images.cocodataset.org/val2017/000000183500.jpg,['sky']
+560279,White toilet in a small tiled room rainbows on toilet,http://images.cocodataset.org/val2017/000000560279.jpg,['room']
+157213,an elephant in a field near many bushes,http://images.cocodataset.org/val2017/000000157213.jpg,['field']
+42563,A train riding on a snow covered track near trees.,http://images.cocodataset.org/val2017/000000042563.jpg,"['tree', 'track', 'snow']"
+425226,A person kneels down to peer into a refrigerator,http://images.cocodataset.org/val2017/000000425226.jpg,['refrigerator']
+383606,A man holding a camera reflected in a bathroom mirror that sits above a sink and next to a door.,http://images.cocodataset.org/val2017/000000383606.jpg,['bathroom']
+569059,"Chair at a desk in the corner with lamp, monitor, keyboard and mouse on top.",http://images.cocodataset.org/val2017/000000569059.jpg,['top']
+515982,A man sliding into home plate as another catches a baseball.,http://images.cocodataset.org/val2017/000000515982.jpg,['home']
+364126,A person on a surfboard in the water.,http://images.cocodataset.org/val2017/000000364126.jpg,['water']
+480021,"A vintage, colored drawing of people on motorcycles pulled into a gas station.",http://images.cocodataset.org/val2017/000000480021.jpg,['station']
+473015,A duck swims across an empty pond outside,http://images.cocodataset.org/val2017/000000473015.jpg,['pond']
+203294,A large bus parked in a parking lot next to a group of women.,http://images.cocodataset.org/val2017/000000203294.jpg,['parking']
+440184,A doubles tennis match on a blue court,http://images.cocodataset.org/val2017/000000440184.jpg,['court']
+264335,A birds is soaring across the blue sky,http://images.cocodataset.org/val2017/000000264335.jpg,['sky']
+180011,"Four young giraffes in a zoo, with one of them being fed leaves by a person",http://images.cocodataset.org/val2017/000000180011.jpg,['zoo']
+479030,A small stream of cars travels along the highway next to a red passenger train.,http://images.cocodataset.org/val2017/000000479030.jpg,"['highway', 'train']"
+475904,A swan in the water near a boat tied to a dock.,http://images.cocodataset.org/val2017/000000475904.jpg,"['dock', 'water']"
+192047,An all white bathroom consisting of a mirror and sink view.,http://images.cocodataset.org/val2017/000000192047.jpg,['bathroom']
+184338,A truck with many painted decorations is parked in a desert.,http://images.cocodataset.org/val2017/000000184338.jpg,['desert']
+133645,A view of a lake with boats in it.,http://images.cocodataset.org/val2017/000000133645.jpg,"['lake', 'boat']"
+563603,Three giraffes stand by a sparse tree in the bushlands near a source of water.,http://images.cocodataset.org/val2017/000000563603.jpg,"['water', 'tree']"
+387387,A school bus sitting in some overgrown grass,http://images.cocodataset.org/val2017/000000387387.jpg,"['school', 'grass']"
+474786,A bathroom mirror with a black box on it,http://images.cocodataset.org/val2017/000000474786.jpg,['bathroom']
+570448,Shot of a person in a wooden boat on the shore of a beach.,http://images.cocodataset.org/val2017/000000570448.jpg,"['beach', 'shore']"
+395180,a person on a bike that is by some water,http://images.cocodataset.org/val2017/000000395180.jpg,['water']
+185950,A boy performs a skateboarding stunt in a skate park,http://images.cocodataset.org/val2017/000000185950.jpg,['park']
+419201,A herd of animals grazing on top of a grass field.,http://images.cocodataset.org/val2017/000000419201.jpg,"['field', 'grass', 'top']"
+168337,Two people outside of a stone building near a red fire hydrant.,http://images.cocodataset.org/val2017/000000168337.jpg,['building']
+568710,A rustic fireplace along a wall in a living room.,http://images.cocodataset.org/val2017/000000568710.jpg,"['room', 'wall']"
+251065,A white toilet with a black seat sitting in a small stall.,http://images.cocodataset.org/val2017/000000251065.jpg,['stall']
+551794,A motorcyclist is pulled to the side of the road.,http://images.cocodataset.org/val2017/000000551794.jpg,['road']
+172935,a person flying backwards on skis over water,http://images.cocodataset.org/val2017/000000172935.jpg,['water']
+33114,Searchlights in front view and a plane on a wide runway in the background.,http://images.cocodataset.org/val2017/000000033114.jpg,['runway']
+149406,"A motorcycle just outside a building with green, peeling paint",http://images.cocodataset.org/val2017/000000149406.jpg,['building']
+207585,Three teddy bears and a stuffed cat on a stone wall.,http://images.cocodataset.org/val2017/000000207585.jpg,['wall']
+173057,A clock tower in a central public area.,http://images.cocodataset.org/val2017/000000173057.jpg,['tower']
+229601,A baseball player running to a base during a game at night.,http://images.cocodataset.org/val2017/000000229601.jpg,"['base', 'night']"
+193717,a hydrant  well tired up placed at the middle of the town,http://images.cocodataset.org/val2017/000000193717.jpg,['town']
+461751,A man is riding a motorcycle on a city street.,http://images.cocodataset.org/val2017/000000461751.jpg,"['street', 'city']"
+488385,The motorcycles are parked on the side of the building.,http://images.cocodataset.org/val2017/000000488385.jpg,['building']
+7108,Elephants walking along a dirt path next to water.,http://images.cocodataset.org/val2017/000000007108.jpg,['water']
+278705,Skateboarders riding down the street on boards next to cars.,http://images.cocodataset.org/val2017/000000278705.jpg,['street']
+467511,Two adults with helmets beside a motorcycle on pavement.,http://images.cocodataset.org/val2017/000000467511.jpg,['pavement']
+418961,A clock mounted to the side of a building.,http://images.cocodataset.org/val2017/000000418961.jpg,['building']
+153782,The Big Ben clock tower in red and blue shade of color.,http://images.cocodataset.org/val2017/000000153782.jpg,['tower']
+341196,a body of water that has a guy surfing on it,http://images.cocodataset.org/val2017/000000341196.jpg,['water']
+17207,A bus with a flat tire sitting in traffic on a street.,http://images.cocodataset.org/val2017/000000017207.jpg,['street']
+416534,A very nicely decorated living room in someone's house.,http://images.cocodataset.org/val2017/000000416534.jpg,"['room', 'house']"
+262487,A group of men on a field playing baseball.,http://images.cocodataset.org/val2017/000000262487.jpg,['field']
+377588,Pitcher in a baseball game tries to out a player attempting to steal base.,http://images.cocodataset.org/val2017/000000377588.jpg,['base']
+433204,A man riding a motorcycle down a small paved road.,http://images.cocodataset.org/val2017/000000433204.jpg,['road']
+76211,A clock mounted on the side of a building next to a street.,http://images.cocodataset.org/val2017/000000076211.jpg,"['street', 'building']"
+176857,People are sitting on the ground petting a cat.,http://images.cocodataset.org/val2017/000000176857.jpg,['ground']
+312237,People at the beach enjoying the day and surfing,http://images.cocodataset.org/val2017/000000312237.jpg,['beach']
+380203,A white horse is out eating in a field,http://images.cocodataset.org/val2017/000000380203.jpg,['field']
+527960,A green park bench underneath a tree in a park.,http://images.cocodataset.org/val2017/000000527960.jpg,"['park', 'tree']"
+226984,The counters in this kitchen are covered with stuff.,http://images.cocodataset.org/val2017/000000226984.jpg,['kitchen']
+522713,A wooden bench overlooking a harbor beneath a cloudy sky.,http://images.cocodataset.org/val2017/000000522713.jpg,"['cloudy', 'harbor', 'sky']"
+207844,People are sitting in lounge chairs on the beach.,http://images.cocodataset.org/val2017/000000207844.jpg,['beach']
+476704,A bus parked on the side of the road next to a bike.,http://images.cocodataset.org/val2017/000000476704.jpg,['road']
+455624,a close up of a person driving a motorcycle on a road,http://images.cocodataset.org/val2017/000000455624.jpg,['road']
+477955,A person who is standing on the beach and flying a kite.,http://images.cocodataset.org/val2017/000000477955.jpg,['beach']
+121586,A tv on the wall with a cat on the screen.,http://images.cocodataset.org/val2017/000000121586.jpg,['wall']
+221017,A rooster walking on a beach near the ocean.,http://images.cocodataset.org/val2017/000000221017.jpg,"['beach', 'ocean']"
+350405,A man is snowboarding past blue markers on a mountain.,http://images.cocodataset.org/val2017/000000350405.jpg,['mountain']
+503755,a woman in tennis gear holding a tennis racket on a tennis court,http://images.cocodataset.org/val2017/000000503755.jpg,['court']
+199442,The young man is surfing in the water,http://images.cocodataset.org/val2017/000000199442.jpg,['water']
+328286,Boats docked at a harbor facing the city.,http://images.cocodataset.org/val2017/000000328286.jpg,"['harbor', 'city']"
+461405,A group of sheep in a grassy area with trees in the back ground.,http://images.cocodataset.org/val2017/000000461405.jpg,"['tree', 'ground']"
+33109,A large semi-trailer truck driving through a town area,http://images.cocodataset.org/val2017/000000033109.jpg,['town']
+455872,A pier with various boats and ships parked.,http://images.cocodataset.org/val2017/000000455872.jpg,"['pier', 'ship']"
+522007,A compact kitchen with white appliances and shelving units for storage.,http://images.cocodataset.org/val2017/000000522007.jpg,"['kitchen', 'storage']"
+28449,A group of elephants are standing in the trees.,http://images.cocodataset.org/val2017/000000028449.jpg,['tree']
+565469,View from the base of a large ornate clock tower.,http://images.cocodataset.org/val2017/000000565469.jpg,"['base', 'tower']"
+128699,A MAN IS JUMPING ON HIS SKATE BOARD IN THE SKY,http://images.cocodataset.org/val2017/000000128699.jpg,['sky']
+110211,A herd of zebra walking across a grass covered field.,http://images.cocodataset.org/val2017/000000110211.jpg,"['field', 'grass']"
+121031,Several men cross the lake on horseback.,http://images.cocodataset.org/val2017/000000121031.jpg,['lake']
+238410,A group of people gathered around a table outdoors having a meeting.,http://images.cocodataset.org/val2017/000000238410.jpg,['outdoors']
+151480,Members of a baseball team are walking across a field.,http://images.cocodataset.org/val2017/000000151480.jpg,['field']
+572303,A train with mirrors on the outside sits on some tracks.,http://images.cocodataset.org/val2017/000000572303.jpg,['track']
+179214,A blue bin with a pizza on a plate with toppings on top of it.,http://images.cocodataset.org/val2017/000000179214.jpg,['top']
+199236,A knight riding on the back of a brown horse through a lush green field.,http://images.cocodataset.org/val2017/000000199236.jpg,['field']
+571857,two people are camping out in the desert,http://images.cocodataset.org/val2017/000000571857.jpg,['desert']
+397133,A baker is working in the kitchen rolling dough.,http://images.cocodataset.org/val2017/000000397133.jpg,['kitchen']
+64499,Thin-striped zebras huddle near the wall of their zoo enclosure,http://images.cocodataset.org/val2017/000000064499.jpg,"['zoo', 'wall']"
+519491,There is a clock in the top of a tall tower,http://images.cocodataset.org/val2017/000000519491.jpg,"['top', 'tower']"
+488664,A train belches smoke and speeds down a city train track.,http://images.cocodataset.org/val2017/000000488664.jpg,"['track', 'city']"
+527960,An empty green park bench sitting among overgrowth.,http://images.cocodataset.org/val2017/000000527960.jpg,['park']
+365385,A bathroom sink with two toothbrush holders on it.,http://images.cocodataset.org/val2017/000000365385.jpg,['bathroom']
+376307,A market has many items for sale including fruit.,http://images.cocodataset.org/val2017/000000376307.jpg,['market']
+199442,A man riding a wave on top of a surfboard.,http://images.cocodataset.org/val2017/000000199442.jpg,['top']
+252332,A stop sign is shown among foliage and grass.,http://images.cocodataset.org/val2017/000000252332.jpg,['grass']
+360661,three people riding horses on a beach,http://images.cocodataset.org/val2017/000000360661.jpg,['beach']
+163057,People fly kites in a large park in the middle of a city.,http://images.cocodataset.org/val2017/000000163057.jpg,"['park', 'city']"
+308531,Palm trees are in the foreground of a picture with a clock tower standing above them.,http://images.cocodataset.org/val2017/000000308531.jpg,"['palm', 'foreground', 'tree', 'tower']"
+44590,A group of motorcycles parked on the side of a road.,http://images.cocodataset.org/val2017/000000044590.jpg,['road']
+93717,Two boys skateboarding on a ramp at a skate park.,http://images.cocodataset.org/val2017/000000093717.jpg,['park']
+356428,People walking in front of an outdoor fruit market.,http://images.cocodataset.org/val2017/000000356428.jpg,['market']
+241677,A herd of animals walking up some steps towards a bridge crossing a river.,http://images.cocodataset.org/val2017/000000241677.jpg,"['river', 'bridge']"
+277020,Asian businessman in a restaurant with one of them being served.,http://images.cocodataset.org/val2017/000000277020.jpg,['restaurant']
+134886,The landing airplane comes in very close to the vehicle in the road.,http://images.cocodataset.org/val2017/000000134886.jpg,['road']
+579307,A boy is on the beach holding a toy.,http://images.cocodataset.org/val2017/000000579307.jpg,['beach']
+87470,A herd of cattle walking down a country road.,http://images.cocodataset.org/val2017/000000087470.jpg,['road']
+16502,A sheep standing on top of a rock.,http://images.cocodataset.org/val2017/000000016502.jpg,"['top', 'rock']"
+85665,"A brightly colored kite shaped like a fish flies in a clear sky,",http://images.cocodataset.org/val2017/000000085665.jpg,['sky']
+291490,A cat laying on a blanket on top of a pillow.,http://images.cocodataset.org/val2017/000000291490.jpg,['top']
+289417,A boy on skis standing in the snow.,http://images.cocodataset.org/val2017/000000289417.jpg,['snow']
+416745,View from outside of a pristine white bathroom.,http://images.cocodataset.org/val2017/000000416745.jpg,['outside']
+223789,A bathroom sink and counter with rose petals and a candle.,http://images.cocodataset.org/val2017/000000223789.jpg,['bathroom']
+73702,A couple of men standing next to each other on a  tennis court.,http://images.cocodataset.org/val2017/000000073702.jpg,['court']
+457884,Three children are playing baseball outside in a field.,http://images.cocodataset.org/val2017/000000457884.jpg,['field']
+18837,a truck with an open door and two people sitting on top,http://images.cocodataset.org/val2017/000000018837.jpg,['top']
+544444,a person skiing down a snowy hill side.,http://images.cocodataset.org/val2017/000000544444.jpg,['hill']
+344621,An outdated plaid blue couch sits in the living room.,http://images.cocodataset.org/val2017/000000344621.jpg,['room']
+364166,An adult and baby zebra looking onward on a field.,http://images.cocodataset.org/val2017/000000364166.jpg,['field']
+235784,a man wlaks down a snowy tundra field,http://images.cocodataset.org/val2017/000000235784.jpg,['field']
+377113,A boy wearing  skating boats in water,http://images.cocodataset.org/val2017/000000377113.jpg,"['water', 'boat']"
+248334,The people are floating in the water in the small wooden boat.,http://images.cocodataset.org/val2017/000000248334.jpg,['water']
+460927,A big furry bear standing in the middle of a field,http://images.cocodataset.org/val2017/000000460927.jpg,['field']
+363666,Three young men at a table eating breakfast at a restaurant.,http://images.cocodataset.org/val2017/000000363666.jpg,['restaurant']
+549930,The couple walks down the wet sidewalk with an umbrella.,http://images.cocodataset.org/val2017/000000549930.jpg,['sidewalk']
+293044,an image of a school approved lunch in a tray,http://images.cocodataset.org/val2017/000000293044.jpg,['school']
+303818,A fish eye view of a bus rounding a curve on a city street.,http://images.cocodataset.org/val2017/000000303818.jpg,"['street', 'city']"
+127263,Two men playing a game of Frisbee in a field.,http://images.cocodataset.org/val2017/000000127263.jpg,['field']
+370270,a person hitting a ball with a stick in a office.,http://images.cocodataset.org/val2017/000000370270.jpg,['office']
+517069,A woman sitting on a bench and a woman standing waiting for the bus.,http://images.cocodataset.org/val2017/000000517069.jpg,['bus']
+143931,a large campaign trailer parked in a parking lot.,http://images.cocodataset.org/val2017/000000143931.jpg,['parking']
+161799,a man on a skateboard performing a trick at a skate park,http://images.cocodataset.org/val2017/000000161799.jpg,['park']
+213171,A baseball player is posing on a baseball field.,http://images.cocodataset.org/val2017/000000213171.jpg,['field']
+250137,A young redheaded woman in sunglasses and black tank top holds a black leather purse and a white umbrella.,http://images.cocodataset.org/val2017/000000250137.jpg,['sunglass']
+534270,A couple of people wearing umbrella hats next to the ocean.,http://images.cocodataset.org/val2017/000000534270.jpg,['ocean']
+352491,A passenger train on the outer track at a railway station.,http://images.cocodataset.org/val2017/000000352491.jpg,"['station', 'track']"
+155341,A red car on street with utility vehicles in background.,http://images.cocodataset.org/val2017/000000155341.jpg,['street']
+43581,A restaurant table with a plate of vegetable pizza and garnishment,http://images.cocodataset.org/val2017/000000043581.jpg,['restaurant']
+420230,An elephant is walking forward in a field.,http://images.cocodataset.org/val2017/000000420230.jpg,['field']
+458702,A view of a street with some trees around it.,http://images.cocodataset.org/val2017/000000458702.jpg,"['street', 'tree']"
+525286,A clock hangs on a wall of a neglected building.,http://images.cocodataset.org/val2017/000000525286.jpg,"['wall', 'building']"
+404128,A plan is shown sitting on the pavement.,http://images.cocodataset.org/val2017/000000404128.jpg,['pavement']
+211674,Double decker bus with people on the top floor on road.,http://images.cocodataset.org/val2017/000000211674.jpg,['road']
+521719,Multicolored wind socks hanging from a patio roof.,http://images.cocodataset.org/val2017/000000521719.jpg,"['wind', 'roof']"
+136715,The officer is riding his motorcycle in a busy street.,http://images.cocodataset.org/val2017/000000136715.jpg,['street']
+180188,A long black train sitting on top of railroad tracks.,http://images.cocodataset.org/val2017/000000180188.jpg,"['track', 'top', 'railroad']"
+230166,"A flock of sheep, some numbered grazing in a grass field.",http://images.cocodataset.org/val2017/000000230166.jpg,"['grazing', 'field', 'grass']"
+344909,a fire hydrant on the side of the road,http://images.cocodataset.org/val2017/000000344909.jpg,['road']
+419601,A black and white living room with modern furniture.,http://images.cocodataset.org/val2017/000000419601.jpg,['room']
+519569,Bar stools at a bar separating a dining area from a kitchen.,http://images.cocodataset.org/val2017/000000519569.jpg,['kitchen']
+76731,A pen sitting on top of an electronic devise,http://images.cocodataset.org/val2017/000000076731.jpg,['top']
+414261,A large black bear laying on top of a large rock.,http://images.cocodataset.org/val2017/000000414261.jpg,"['top', 'rock']"
+406611,A ski resort with a bunch of people skiing down hill and going up hill.,http://images.cocodataset.org/val2017/000000406611.jpg,['hill']
+129135,"A passenger train is yellow and blue, and stands at a station.",http://images.cocodataset.org/val2017/000000129135.jpg,['station']
+551794,A man sitting on his motorcycle on dirt just of a paved road.,http://images.cocodataset.org/val2017/000000551794.jpg,['road']
+289960,a guy is running at the ocean and is pulling on string to keep his kite flying.,http://images.cocodataset.org/val2017/000000289960.jpg,['ocean']
+425390,a cat resting on a laptop keyboard in a bedroom,http://images.cocodataset.org/val2017/000000425390.jpg,['bedroom']
+357742,Person skiing on snowy slopes with wires above,http://images.cocodataset.org/val2017/000000357742.jpg,['slope']
+567825,A BIG HAMBURGER SITTING ON TOP OF A COUNTER AND A GLASS OF WINE,http://images.cocodataset.org/val2017/000000567825.jpg,['top']
+489924,A girl on top of skate board on a street.,http://images.cocodataset.org/val2017/000000489924.jpg,"['top', 'street']"
+233139,Two square clocks behind a window with Asian writing on it.,http://images.cocodataset.org/val2017/000000233139.jpg,['square']
+243075,a polar bear near rocks made to look like ice,http://images.cocodataset.org/val2017/000000243075.jpg,['rock']
+267903,A very old toilet and sink in an old room.,http://images.cocodataset.org/val2017/000000267903.jpg,['room']
+570448,A man sanding on a boat next to a beach.,http://images.cocodataset.org/val2017/000000570448.jpg,['beach']
+226417,Several motorcycles are parked at a red light in the road in a city with tall buildings.,http://images.cocodataset.org/val2017/000000226417.jpg,"['building', 'city', 'road']"
+505573,A dog sitting on top of stairs.] with a red bow tie.,http://images.cocodataset.org/val2017/000000505573.jpg,['top']
+578967,A monorail is going down the track with people on it.,http://images.cocodataset.org/val2017/000000578967.jpg,['track']
+384527,"The room is crowded with many things including chairs, a bicycle, and a table with cups on it.",http://images.cocodataset.org/val2017/000000384527.jpg,['room']
+296284,A donut shop is full of different flavors of donuts.,http://images.cocodataset.org/val2017/000000296284.jpg,['shop']
+314177,The person is sitting on the unusual toilet in the bathroom.,http://images.cocodataset.org/val2017/000000314177.jpg,['bathroom']
+8899,a red bricked building with a green door and graffiti,http://images.cocodataset.org/val2017/000000008899.jpg,['building']
+5001,A group of people cutting a ribbon on a street.,http://images.cocodataset.org/val2017/000000005001.jpg,['street']
+195045,a bench under a tree in a park,http://images.cocodataset.org/val2017/000000195045.jpg,"['park', 'tree']"
+302165,A herd of cows laying on dry grass.,http://images.cocodataset.org/val2017/000000302165.jpg,['grass']
+211069,Two giraffes walking in long grass near short trees.,http://images.cocodataset.org/val2017/000000211069.jpg,"['tree', 'grass']"
+39956,A bedroom in an old house that is being renovated,http://images.cocodataset.org/val2017/000000039956.jpg,['house']
+429109,Several buses on a street near a covered bus stop.,http://images.cocodataset.org/val2017/000000429109.jpg,['street']
+407868,Young people are flying kites at a park.,http://images.cocodataset.org/val2017/000000407868.jpg,['park']
+393469,Two snowboarders riding down a hill in a snowy forest.,http://images.cocodataset.org/val2017/000000393469.jpg,"['forest', 'hill']"
+90956,a skier in a green shirt is coming down a mountain,http://images.cocodataset.org/val2017/000000090956.jpg,['mountain']
+244592,Three zebras interacting in a zoo zebra enclosure.,http://images.cocodataset.org/val2017/000000244592.jpg,['zoo']
+309938,A small brown dog laying on top of a couch.,http://images.cocodataset.org/val2017/000000309938.jpg,['top']
+329323,a group of people that are standing up outside,http://images.cocodataset.org/val2017/000000329323.jpg,['outside']
+288042,There is a man standing near a river with a umbrella,http://images.cocodataset.org/val2017/000000288042.jpg,['river']
+23023,A suitcase as well as other types of luggage are propped up on a carpeted floor indoors.,http://images.cocodataset.org/val2017/000000023023.jpg,['indoors']
+568290,a double bus driving on a city  street,http://images.cocodataset.org/val2017/000000568290.jpg,"['street', 'city']"
+108864,Two elephants cross tusks in confrontation in a field,http://images.cocodataset.org/val2017/000000108864.jpg,['field']
+284282,A blender laying on a table in a room.,http://images.cocodataset.org/val2017/000000284282.jpg,['room']
+69106,A herd of zebra standing next to each other against a stone wall.,http://images.cocodataset.org/val2017/000000069106.jpg,['wall']
+283318,A store on the corner with an American flag flying from it's side.,http://images.cocodataset.org/val2017/000000283318.jpg,['store']
+475150,A giraffe stands near a tree in the wilderness.,http://images.cocodataset.org/val2017/000000475150.jpg,['tree']
+426376,A man riding a snowboard down the side of a snow covered slope.,http://images.cocodataset.org/val2017/000000426376.jpg,"['snow', 'slope']"
+14226,A man sitting on a train at a table using a laptop.,http://images.cocodataset.org/val2017/000000014226.jpg,['train']
+512564,Various vehicles are driving down a city street.,http://images.cocodataset.org/val2017/000000512564.jpg,"['street', 'city']"
+356968,A brown horse with blonde hair standing in an open field.,http://images.cocodataset.org/val2017/000000356968.jpg,['field']
+47769,A small living room with furniture and two windows.,http://images.cocodataset.org/val2017/000000047769.jpg,['room']
+326542,Skier with a red jacket on going down the side of a mountain.,http://images.cocodataset.org/val2017/000000326542.jpg,['mountain']
+111179,A building top with a clock on it.,http://images.cocodataset.org/val2017/000000111179.jpg,"['top', 'building']"
+437110,A large building with a tower that has a clock.,http://images.cocodataset.org/val2017/000000437110.jpg,"['building', 'tower']"
+272212,"With a foggy haze in the valley, some  cows lay low on the grassy hillside.",http://images.cocodataset.org/val2017/000000272212.jpg,"['valley', 'grassy', 'hillside']"
+565778,A train with people inside is about to go into a tunnel.,http://images.cocodataset.org/val2017/000000565778.jpg,['tunnel']
+157046,A wall that has a wavy light patterns on it.,http://images.cocodataset.org/val2017/000000157046.jpg,['wall']
+257566,A boat traveling down a narrow canal next to a forest.,http://images.cocodataset.org/val2017/000000257566.jpg,['forest']
+107554,A surfboard leans against a wheelbarrow on the lawn.,http://images.cocodataset.org/val2017/000000107554.jpg,['lawn']
+98520,A large passenger jet sitting on top of an airport runway.,http://images.cocodataset.org/val2017/000000098520.jpg,"['airport', 'top', 'runway']"
+263860,Two elephants in a field rubbing their trunks on each other.,http://images.cocodataset.org/val2017/000000263860.jpg,['field']
+303818,A group of people walk alongside the road.,http://images.cocodataset.org/val2017/000000303818.jpg,['road']
+454661,Cars bumper to bumper stuck in city traffic.,http://images.cocodataset.org/val2017/000000454661.jpg,['city']
+431545,A baseball runner slows as he arrives at third base,http://images.cocodataset.org/val2017/000000431545.jpg,['base']
+506454,A park bench that is sitting in grass under a tree.,http://images.cocodataset.org/val2017/000000506454.jpg,"['park', 'tree', 'grass']"
+299609,A horse grazing with mountains behind him.,http://images.cocodataset.org/val2017/000000299609.jpg,"['grazing', 'mountain']"
+67213,A lot of people that are looking at a pool.,http://images.cocodataset.org/val2017/000000067213.jpg,['pool']
+272148,Several surfers paddling on their boards out in the ocean.,http://images.cocodataset.org/val2017/000000272148.jpg,['ocean']
+133969,An athlete is performing on a sports field.,http://images.cocodataset.org/val2017/000000133969.jpg,['field']
+580410,a living room with a tray holding a laptop next to a couch,http://images.cocodataset.org/val2017/000000580410.jpg,['room']
+230993,People are walking in the street while holding umbrellas.,http://images.cocodataset.org/val2017/000000230993.jpg,['street']
+35197,A black and white photograph of a person wearing DC shoes on a skateboard in the sun.,http://images.cocodataset.org/val2017/000000035197.jpg,['sun']
+165518,A man rides a motorcycle in the rain.,http://images.cocodataset.org/val2017/000000165518.jpg,['rain']
+473974,A number zebras grazing in the woods.,http://images.cocodataset.org/val2017/000000473974.jpg,['grazing']
+568690,A cat sitting on a toilet in a bathroom,http://images.cocodataset.org/val2017/000000568690.jpg,['bathroom']
+404249,A small boy rides a skateboard down the walkway.,http://images.cocodataset.org/val2017/000000404249.jpg,['walkway']
+106281,A long silver train traveling through a small city.,http://images.cocodataset.org/val2017/000000106281.jpg,['city']
+78032,a couple of park benches on some concrete,http://images.cocodataset.org/val2017/000000078032.jpg,['park']
+505169,"A bathroom with a toilet, tiled walls and a chained shower. ",http://images.cocodataset.org/val2017/000000505169.jpg,['wall']
+246968,A woman standing in a  kitchen preparing food.,http://images.cocodataset.org/val2017/000000246968.jpg,['kitchen']
+163314,People are walking in front of some shops.,http://images.cocodataset.org/val2017/000000163314.jpg,['shop']
+466567,A doughnut hanging from a Christmas tree as a decoration.,http://images.cocodataset.org/val2017/000000466567.jpg,['tree']
+457078,The inside of a room with a large collection of CD's.,http://images.cocodataset.org/val2017/000000457078.jpg,['room']
+376284,fire hydrant on city street with several parked cars.,http://images.cocodataset.org/val2017/000000376284.jpg,"['street', 'city']"
+298697,Horses are eating the hay in a large field.,http://images.cocodataset.org/val2017/000000298697.jpg,['field']
+145591,There is a large clock in the foreground and a large building in the background.,http://images.cocodataset.org/val2017/000000145591.jpg,"['building', 'foreground']"
+365745,A bomb squad vehicle in the middle of an intersection.,http://images.cocodataset.org/val2017/000000365745.jpg,['intersection']
+247806,A clock tower is part of an old building.,http://images.cocodataset.org/val2017/000000247806.jpg,"['building', 'part', 'tower']"
+150726,Two giraffes walking next to each other in a field.,http://images.cocodataset.org/val2017/000000150726.jpg,['field']
+408696,A man sitting on a toilet in someone's house.,http://images.cocodataset.org/val2017/000000408696.jpg,['house']
+350488,A zebra near a waterhole grazing on some grass.,http://images.cocodataset.org/val2017/000000350488.jpg,"['grazing', 'grass']"
+203580,a bench outdoors with an open umbrella,http://images.cocodataset.org/val2017/000000203580.jpg,['outdoors']
+224051,The bike is parked on the sidewalk next to the highway.,http://images.cocodataset.org/val2017/000000224051.jpg,"['highway', 'sidewalk']"
+25228,A woman looks to her right while straddling a surfboard in the ocean.,http://images.cocodataset.org/val2017/000000025228.jpg,['ocean']
+382696,There is a kitchen being built and appliances being put in,http://images.cocodataset.org/val2017/000000382696.jpg,['kitchen']
+565624,Two young elephants graze on a grassy field.,http://images.cocodataset.org/val2017/000000565624.jpg,['field']
+31248,"A living room has a couch, a chair, and a fireplace.",http://images.cocodataset.org/val2017/000000031248.jpg,['room']
+430073,A white bull walks along the sidewalk near people.,http://images.cocodataset.org/val2017/000000430073.jpg,['sidewalk']
+454404,A girl sits on the bench with one foot up.,http://images.cocodataset.org/val2017/000000454404.jpg,['foot']
+294695,Two women leaving a beach with kites flying in the background.,http://images.cocodataset.org/val2017/000000294695.jpg,['beach']
+192607,A man standing next to a truck near a forest hillside.,http://images.cocodataset.org/val2017/000000192607.jpg,"['hillside', 'forest']"
+336232,"A bus, cars and a motorcycle driving in busy traffic on the street.",http://images.cocodataset.org/val2017/000000336232.jpg,['street']
+494188,A black bird standing behind a group of occupied chairs along a sidewalk.,http://images.cocodataset.org/val2017/000000494188.jpg,['sidewalk']
+17029,A dog jumping to catch a red frisbee in a garden,http://images.cocodataset.org/val2017/000000017029.jpg,['garden']
+404839,A couple standing together holding Wii controllers next to a building.,http://images.cocodataset.org/val2017/000000404839.jpg,['building']
+229659,A laptop computer sitting on top of a wooden table.,http://images.cocodataset.org/val2017/000000229659.jpg,['top']
+288391,a large gold cellphone is on a wall,http://images.cocodataset.org/val2017/000000288391.jpg,['wall']
+259690,A man is helping an athlete on a sport field.,http://images.cocodataset.org/val2017/000000259690.jpg,['field']
+248980,A blue plate with a green salad on top of it.,http://images.cocodataset.org/val2017/000000248980.jpg,['top']
+361506,This skateboarder is riding the cityscape at night when traffic is minimal.,http://images.cocodataset.org/val2017/000000361506.jpg,['night']
+219440,Here is a image of an zoo animals.,http://images.cocodataset.org/val2017/000000219440.jpg,['zoo']
+378139,THERE IS A BOAT THAT IS COMING DOWN THE RIVER,http://images.cocodataset.org/val2017/000000378139.jpg,['river']
+491470,"A cleared crosswalk in a city on a snowy, slushy day",http://images.cocodataset.org/val2017/000000491470.jpg,['city']
+274272,A large bus driving down a city street.,http://images.cocodataset.org/val2017/000000274272.jpg,"['street', 'city']"
+289586,A giraffe points its head towards the sky,http://images.cocodataset.org/val2017/000000289586.jpg,['sky']
+289992,A white bathroom with sink and shower cleaned.,http://images.cocodataset.org/val2017/000000289992.jpg,['bathroom']
+176606,A goat leans propped against a grassy surface.,http://images.cocodataset.org/val2017/000000176606.jpg,['surface']
+355905,A white dog running in the sand along the beach.,http://images.cocodataset.org/val2017/000000355905.jpg,['beach']
+524850,A crowd of people standing around a bus next to a parked jetliner.,http://images.cocodataset.org/val2017/000000524850.jpg,['jetliner']
+424642,a couple of people are outside near some trees,http://images.cocodataset.org/val2017/000000424642.jpg,['tree']
+94185,A teddy bear store is decorated with signs and bears.,http://images.cocodataset.org/val2017/000000094185.jpg,['store']
+488592,Some one riding a bike through a market.,http://images.cocodataset.org/val2017/000000488592.jpg,['market']
+516708,The business and street signs are clearly visible.,http://images.cocodataset.org/val2017/000000516708.jpg,['street']
+229747,An air plane flies in a dark grey sky,http://images.cocodataset.org/val2017/000000229747.jpg,['sky']
+109992,A woman on a snow board riding down a hill.,http://images.cocodataset.org/val2017/000000109992.jpg,['hill']
+15746,A picture of a fire hydrant in the grass.,http://images.cocodataset.org/val2017/000000015746.jpg,['grass']
+482735,a guy in black water suit surfing a wave.,http://images.cocodataset.org/val2017/000000482735.jpg,['water']
+74457,Single paddle boarder walking on the shore of a beach.,http://images.cocodataset.org/val2017/000000074457.jpg,"['beach', 'shore']"
+160728,A man and young child are standing with canoes in a harbor filled with boats.,http://images.cocodataset.org/val2017/000000160728.jpg,['harbor']
+189828,Aerial view of an airplane ascending in to the sky.,http://images.cocodataset.org/val2017/000000189828.jpg,['sky']
+25139,Two zebras relaxing in the fenced area of a zoo,http://images.cocodataset.org/val2017/000000025139.jpg,['zoo']
+326627,A building that has a rainbow above it.,http://images.cocodataset.org/val2017/000000326627.jpg,"['building', 'rainbow']"
+471756,there is a young boy riding a surf board in the water,http://images.cocodataset.org/val2017/000000471756.jpg,['water']
+115898,A surfer is on the water and is waiting for a wave.,http://images.cocodataset.org/val2017/000000115898.jpg,['water']
+232692,The man is about to perform a stunt in the water.,http://images.cocodataset.org/val2017/000000232692.jpg,['water']
+312552,A woman eating a piece of pizza near the kitchen counter.,http://images.cocodataset.org/val2017/000000312552.jpg,['kitchen']
+410221,A plane that is flying in the sky above wires.,http://images.cocodataset.org/val2017/000000410221.jpg,['sky']
+140658,The exterior of a building with a clock.,http://images.cocodataset.org/val2017/000000140658.jpg,['building']
+237928,Small kitchen with cabinets and a microwave on the counter.,http://images.cocodataset.org/val2017/000000237928.jpg,"['kitchen', 'cabinet']"
+555597,Many cars parked on a city street with tall buildings in the background.,http://images.cocodataset.org/val2017/000000555597.jpg,"['building', 'street', 'city']"
+120584,A clock high up on a wall in a room.,http://images.cocodataset.org/val2017/000000120584.jpg,"['room', 'wall']"
+566282,A pair of well dressed men kick a soccer ball on the sidewalk.,http://images.cocodataset.org/val2017/000000566282.jpg,['sidewalk']
+335800,A street sign with flags and a high rise building in the background.,http://images.cocodataset.org/val2017/000000335800.jpg,"['street', 'building']"
+547383,Two sheep lay in the grass and look at the camera.,http://images.cocodataset.org/val2017/000000547383.jpg,['grass']
+531771,A two oven unit standing in a kitchen.,http://images.cocodataset.org/val2017/000000531771.jpg,['kitchen']
+331604,The man is para sailing on the water.,http://images.cocodataset.org/val2017/000000331604.jpg,['water']
+186632,The large bathroom has four sinks and a chandelier.,http://images.cocodataset.org/val2017/000000186632.jpg,['bathroom']
+273232,A man and his dog are coming out of the water,http://images.cocodataset.org/val2017/000000273232.jpg,['water']
+308476,A polar bear standing on a rock formation in an enclosure.,http://images.cocodataset.org/val2017/000000308476.jpg,['rock']
+468632,some males are playing frisbee and some trees,http://images.cocodataset.org/val2017/000000468632.jpg,['tree']
+369442,A group of men and goats on side of street under a tree.,http://images.cocodataset.org/val2017/000000369442.jpg,"['street', 'tree']"
+244099,A person riding a horse through a field.,http://images.cocodataset.org/val2017/000000244099.jpg,['field']
+360661,People riding on horses as the run on a beach.,http://images.cocodataset.org/val2017/000000360661.jpg,['beach']
+288391,An old cell phone mounted on a wall above an awning.,http://images.cocodataset.org/val2017/000000288391.jpg,['wall']
+380203,A horse standing on top of a grass covered field.,http://images.cocodataset.org/val2017/000000380203.jpg,"['field', 'top', 'grass']"
+522393,two people in a wooden boat with sails on some water,http://images.cocodataset.org/val2017/000000522393.jpg,['water']
+451435,A man holding a tennis racket playing on a tennis court.,http://images.cocodataset.org/val2017/000000451435.jpg,['court']
+168593,An olive green refrigerator next to a white refrigerator in an old kitchen.,http://images.cocodataset.org/val2017/000000168593.jpg,['kitchen']
+269314,A small cat sitting in the top of a banana tree.,http://images.cocodataset.org/val2017/000000269314.jpg,"['top', 'tree']"
+398237,Young child playing with several lawn type ornaments.,http://images.cocodataset.org/val2017/000000398237.jpg,['lawn']
+507667,A statue of a cow with a subway map on its side.,http://images.cocodataset.org/val2017/000000507667.jpg,['subway']
+291490,A cat laying on a bed in a room.,http://images.cocodataset.org/val2017/000000291490.jpg,['room']
+18837,A large truck on a city street with two works sitting on top and one worker climbing in through door.,http://images.cocodataset.org/val2017/000000018837.jpg,"['street', 'city', 'top']"
+359219,a couple of pies sitting on top of a stove witha fork and knife,http://images.cocodataset.org/val2017/000000359219.jpg,['top']
+390555,A bunch of kids standing together for a school picture.,http://images.cocodataset.org/val2017/000000390555.jpg,['school']
+233825,A view of a living room with large windows.,http://images.cocodataset.org/val2017/000000233825.jpg,['room']
+156278,Busy kitchen in residential home with cabinets and wooden table.,http://images.cocodataset.org/val2017/000000156278.jpg,"['home', 'kitchen', 'cabinet']"
+567886,A white teddy bear laying on top of a blue rug.,http://images.cocodataset.org/val2017/000000567886.jpg,['top']
+494188,a black bird standing on the floor in the street,http://images.cocodataset.org/val2017/000000494188.jpg,['street']
+211674,A double decker bus driving down a street.,http://images.cocodataset.org/val2017/000000211674.jpg,['street']
+231088,Six umbrellas floating in the air near a building.,http://images.cocodataset.org/val2017/000000231088.jpg,['building']
+289222,A pole with stop lights and a horse walking sign.,http://images.cocodataset.org/val2017/000000289222.jpg,['horse']
+328286,A small ferry boat is moored at the end of a dock.,http://images.cocodataset.org/val2017/000000328286.jpg,['dock']
+153782,A large clock standing among a building with a lamp in the from of the picture,http://images.cocodataset.org/val2017/000000153782.jpg,['building']
+27972,A man in a red shirt rides a yellow surfboard on light blue water.,http://images.cocodataset.org/val2017/000000027972.jpg,['water']
+503823,Old wooden boats in dry dock on a grey dreary day.,http://images.cocodataset.org/val2017/000000503823.jpg,['dock']
+283038,A large stop sign is set against city buildings.,http://images.cocodataset.org/val2017/000000283038.jpg,"['building', 'city']"
+479248,The TV is placed in a well decorated room.,http://images.cocodataset.org/val2017/000000479248.jpg,['room']
+528314,a man that is skiing down a snowy slope,http://images.cocodataset.org/val2017/000000528314.jpg,['slope']
+178744,a yellow and black boat on a narrow river in a city,http://images.cocodataset.org/val2017/000000178744.jpg,"['river', 'city']"
+189806,A cat and a dog on the floor in a room,http://images.cocodataset.org/val2017/000000189806.jpg,['room']
+442009,A bathroom scene complete with a cast iron style tub.,http://images.cocodataset.org/val2017/000000442009.jpg,['bathroom']
+478474,A truck with two trailers moves down a road.,http://images.cocodataset.org/val2017/000000478474.jpg,['road']
+384513,a donkey standing by the road with the blue cart attached to it,http://images.cocodataset.org/val2017/000000384513.jpg,['road']
+381639,A girl stands on an airport tarmac between orange cones in front of an airplane being boarded.,http://images.cocodataset.org/val2017/000000381639.jpg,['airport']
+190140,A dog standing on a boat that a man is piloting through the water.,http://images.cocodataset.org/val2017/000000190140.jpg,['water']
+34417,Donuts traveling down an assembly line in a factory while people work behind it.,http://images.cocodataset.org/val2017/000000034417.jpg,['factory']
+36494,"A crowd of people sitting in a room, with a clock tower in front.",http://images.cocodataset.org/val2017/000000036494.jpg,"['room', 'tower']"
+404568,A seagull standing near the ocean on the sand.,http://images.cocodataset.org/val2017/000000404568.jpg,['ocean']
+395633,A boat that is sitting in the water.,http://images.cocodataset.org/val2017/000000395633.jpg,['water']
+67896,an old clock hanging up against the side of a wall,http://images.cocodataset.org/val2017/000000067896.jpg,['wall']
+384666,A group of young children riding skis down a snow covered mountain.,http://images.cocodataset.org/val2017/000000384666.jpg,['mountain']
+571893,A stove and some books in a kitchen.,http://images.cocodataset.org/val2017/000000571893.jpg,['kitchen']
+386277,A photo of an orange growing on a tree.,http://images.cocodataset.org/val2017/000000386277.jpg,['tree']
+564133,A herd of elephants are marching triumphantly through a field.,http://images.cocodataset.org/val2017/000000564133.jpg,['field']
+382696,A kitchen under construction with a trashcan and stove.,http://images.cocodataset.org/val2017/000000382696.jpg,"['kitchen', 'construction']"
+218091,"Hotel room scene, efficiency, queen bed, sofa, table/desk, TV, in brown tone room.",http://images.cocodataset.org/val2017/000000218091.jpg,"['room', 'hotel']"
+303908,A wooden bench and life preserver near some water.,http://images.cocodataset.org/val2017/000000303908.jpg,['water']
+197796,A white sink sitting under a bathroom window.,http://images.cocodataset.org/val2017/000000197796.jpg,['bathroom']
+194724,A plate has pizza on it next to a drink and a sandwich.,http://images.cocodataset.org/val2017/000000194724.jpg,['sandwich']
+323895,a person swinging a tennis racket on a tennis court.,http://images.cocodataset.org/val2017/000000323895.jpg,['court']
+245513,A giraffe standing in a field with a bird.,http://images.cocodataset.org/val2017/000000245513.jpg,['field']
+190236,An office cubicle with four different types of computers.,http://images.cocodataset.org/val2017/000000190236.jpg,['office']
+13348,a large air plane on a terminal,http://images.cocodataset.org/val2017/000000013348.jpg,['terminal']
+265108,A blue piece of luggage sitting up against the side of a building.,http://images.cocodataset.org/val2017/000000265108.jpg,['building']
+123213,Two athletes are competing on a playing field.,http://images.cocodataset.org/val2017/000000123213.jpg,['field']
+418959,A duck standing on a pile of debris in water,http://images.cocodataset.org/val2017/000000418959.jpg,"['pile', 'water']"
+283318,There is a street sign on the corner by a building.,http://images.cocodataset.org/val2017/000000283318.jpg,"['building', 'street']"
+465675,There is a tractor next to some boats on the beach,http://images.cocodataset.org/val2017/000000465675.jpg,['beach']
+96960,A polar bear is under water next to a rock wall.,http://images.cocodataset.org/val2017/000000096960.jpg,"['wall', 'water', 'rock']"
+562561,a black and white dog and a brown dog on some grass,http://images.cocodataset.org/val2017/000000562561.jpg,['grass']
+430073,an ox standing in a busy town area with people going about their normal business,http://images.cocodataset.org/val2017/000000430073.jpg,['town']
+506310,A room that has an open refrigerator in it.,http://images.cocodataset.org/val2017/000000506310.jpg,['room']
+20571,A few fishing boats tied to a dock.,http://images.cocodataset.org/val2017/000000020571.jpg,['dock']
+111951,"A double sink vanity with mirror, shower stall and toilet in a bathroom.",http://images.cocodataset.org/val2017/000000111951.jpg,['stall']
+377239,A woman with an umbrella on the street.,http://images.cocodataset.org/val2017/000000377239.jpg,['street']
+563603,A group of giraffes gather under a tree.,http://images.cocodataset.org/val2017/000000563603.jpg,['tree']
+242411,White building with clocks located to be viewed from 4 angles,http://images.cocodataset.org/val2017/000000242411.jpg,['building']
+361621,A cat sits in a bathroom sink while looking outward.,http://images.cocodataset.org/val2017/000000361621.jpg,['bathroom']
+493334,A cake has a pond and a cell phone on it and green icing for trimming.,http://images.cocodataset.org/val2017/000000493334.jpg,['pond']
+229311,a kitchen with a sink near a window,http://images.cocodataset.org/val2017/000000229311.jpg,['kitchen']
+351810,A pile of luggage in a room with two women nearby.,http://images.cocodataset.org/val2017/000000351810.jpg,"['room', 'pile']"
+217400,Subway car leaving the subway station at night.,http://images.cocodataset.org/val2017/000000217400.jpg,"['station', 'subway', 'night']"
+546011,Three zebras standing together in a grassy field.,http://images.cocodataset.org/val2017/000000546011.jpg,['field']
+433774,A street scene with a parking meter on the side.,http://images.cocodataset.org/val2017/000000433774.jpg,"['street', 'parking']"
+479155,Two young kids interacting in the grocery store produce section.,http://images.cocodataset.org/val2017/000000479155.jpg,['store']
+409211,A man standing on a clay tennis court with a racquet.,http://images.cocodataset.org/val2017/000000409211.jpg,['court']
+119641,A herd of elephants walking down a river with people riding on their backs.,http://images.cocodataset.org/val2017/000000119641.jpg,['river']
+283520,Two people standing in front of some trees.,http://images.cocodataset.org/val2017/000000283520.jpg,['tree']
+488385,A black and white motorcycle parked on the sidewalk outside a store.,http://images.cocodataset.org/val2017/000000488385.jpg,"['store', 'sidewalk']"
+172595,A computer desk with a large purple office chair,http://images.cocodataset.org/val2017/000000172595.jpg,['office']
+153782,A blurred picture of a clock tower and a lamp post.,http://images.cocodataset.org/val2017/000000153782.jpg,"['post', 'tower']"
+471567,Giraffe from the zoo staring into the distance.,http://images.cocodataset.org/val2017/000000471567.jpg,['zoo']
+313562,In lady standing with her hand on carrots in a market.,http://images.cocodataset.org/val2017/000000313562.jpg,['market']
+100283,A stop sign in front of a large building.,http://images.cocodataset.org/val2017/000000100283.jpg,['building']
+31118,Series of light decorations at a city center with a tree and a clock tower.,http://images.cocodataset.org/val2017/000000031118.jpg,"['tower', 'city', 'tree']"
+500663,There are two cows in this grassy field.,http://images.cocodataset.org/val2017/000000500663.jpg,['field']
+357742,"A skier makes his way up a snowy hill, eschewing the lift. ",http://images.cocodataset.org/val2017/000000357742.jpg,['hill']
+488736,A clock suspended on the outside of a brown stone building.,http://images.cocodataset.org/val2017/000000488736.jpg,"['outside', 'building']"
+224093,Cow graze in a field outside of a rural township.,http://images.cocodataset.org/val2017/000000224093.jpg,['field']
+52565,a cow standing in some sand next to some water,http://images.cocodataset.org/val2017/000000052565.jpg,['water']
+505451,A man surfs on a wave in the ocean.,http://images.cocodataset.org/val2017/000000505451.jpg,['ocean']
+343466,View of kitchen with oven and plenty of cabinets home.,http://images.cocodataset.org/val2017/000000343466.jpg,"['home', 'kitchen', 'cabinet']"
+392481,A nice jet plane flying into some grey skies.,http://images.cocodataset.org/val2017/000000392481.jpg,['sky']
+262682,Two sinks that are in a kitchen near a window.,http://images.cocodataset.org/val2017/000000262682.jpg,['kitchen']
+233771,A colorful umbrella in the center of a black and white picture of a busy city side walk.,http://images.cocodataset.org/val2017/000000233771.jpg,['city']
+463522,A horse stands on the side of the road with a harness on.,http://images.cocodataset.org/val2017/000000463522.jpg,['road']
+171050,A fire hydrant across from a red bricked building.,http://images.cocodataset.org/val2017/000000171050.jpg,['building']
+411938,A person holding a huge teddy bear while riding a bike in the street.,http://images.cocodataset.org/val2017/000000411938.jpg,['street']
+513484,A brown bear enjoying the sun and a little water at the zoo,http://images.cocodataset.org/val2017/000000513484.jpg,"['zoo', 'water', 'sun']"
+335328,A couple of people riding waves on top of boards.,http://images.cocodataset.org/val2017/000000335328.jpg,['top']
+32081,A woman on the tennis court playing tennis,http://images.cocodataset.org/val2017/000000032081.jpg,['court']
+50331,Planters with growing broccoli in them on the ground,http://images.cocodataset.org/val2017/000000050331.jpg,['ground']
+416269,A passenger sign on the tracks at a station.,http://images.cocodataset.org/val2017/000000416269.jpg,"['station', 'track']"
+335529,A wooden bench sitting next to a large body of water.,http://images.cocodataset.org/val2017/000000335529.jpg,['water']
+378515,A man kneeling down over piles of bananas.,http://images.cocodataset.org/val2017/000000378515.jpg,['pile']
+63740,Two computers sitting on top of a desk.,http://images.cocodataset.org/val2017/000000063740.jpg,['top']
+151820,A group of people talking and sharing a meal in a restaurant.,http://images.cocodataset.org/val2017/000000151820.jpg,['restaurant']
+377882,A small harbor with boats docked and on racks,http://images.cocodataset.org/val2017/000000377882.jpg,['harbor']
+128148,A large living room with leather couches and wood flooring,http://images.cocodataset.org/val2017/000000128148.jpg,['room']
+307598,A commuter train that is in the train yard and is parked.,http://images.cocodataset.org/val2017/000000307598.jpg,['yard']
+342006,The enveloping of an outside town in the picture. ,http://images.cocodataset.org/val2017/000000342006.jpg,['town']
+159977,A giraffe looks down at a zebra on the field,http://images.cocodataset.org/val2017/000000159977.jpg,['field']
+549738,"A large, colorful kite flown over an urban area.",http://images.cocodataset.org/val2017/000000549738.jpg,['urban']
+175364,this is a kitchen with two stoves and a table,http://images.cocodataset.org/val2017/000000175364.jpg,['kitchen']
+182923,a women that is playing tennis on a court,http://images.cocodataset.org/val2017/000000182923.jpg,['court']
+564133,Some elephants walk together through the grass.,http://images.cocodataset.org/val2017/000000564133.jpg,['grass']
+273198,A man opening a fire hydrant on a city side walk.,http://images.cocodataset.org/val2017/000000273198.jpg,['city']
+146363,A beach chair with an umbrella on a beach by the water.,http://images.cocodataset.org/val2017/000000146363.jpg,"['beach', 'water']"
+1761,Two planes flying in the sky over a bridge.,http://images.cocodataset.org/val2017/000000001761.jpg,"['sky', 'bridge']"
+570688,Several colorful kites in the sky by several persons in the ground.,http://images.cocodataset.org/val2017/000000570688.jpg,"['ground', 'sky']"
+274460,Groups of competitive surfers sitting with their surfboards on the beach.,http://images.cocodataset.org/val2017/000000274460.jpg,['beach']
+210030,A white plate with a slice of cake on top of it.,http://images.cocodataset.org/val2017/000000210030.jpg,['top']
+163258,A white toilet sitting in a bathroom next to a wall.,http://images.cocodataset.org/val2017/000000163258.jpg,['wall']
+152771,A lone bicycle parked in a parking lot with cars parked on a street.,http://images.cocodataset.org/val2017/000000152771.jpg,"['parking', 'street']"
+464522,A dog with a collar standing on the grass,http://images.cocodataset.org/val2017/000000464522.jpg,['grass']
+190236,an office with desk computer and chair and laptop.,http://images.cocodataset.org/val2017/000000190236.jpg,['office']
+213935,"A pile of oranges, apples and pears next to each other.",http://images.cocodataset.org/val2017/000000213935.jpg,['pile']
+74457,A man holding a surfboard on a beach with a pier in the background.,http://images.cocodataset.org/val2017/000000074457.jpg,"['pier', 'beach']"
+488664,The blue train engine emits black smoke as it speeds down the track.,http://images.cocodataset.org/val2017/000000488664.jpg,['track']
+135561,A kitchen illuminated by a track lighting unit.,http://images.cocodataset.org/val2017/000000135561.jpg,"['track', 'kitchen']"
+17627,A green car has parked on the curb in a parking lot,http://images.cocodataset.org/val2017/000000017627.jpg,['parking']
+166391,Cars cross a large intersection on the highway.,http://images.cocodataset.org/val2017/000000166391.jpg,['highway']
+160772,A ship is sailing across an ocean filled with waves.,http://images.cocodataset.org/val2017/000000160772.jpg,"['ship', 'ocean']"
+425390,A large Siamese cat sitting on top of a laptop computer.,http://images.cocodataset.org/val2017/000000425390.jpg,['top']
+509258,An old brick building has Florida direction signs in front.,http://images.cocodataset.org/val2017/000000509258.jpg,['building']
+49060,A train sitting next to a loading platform with people standing on it.,http://images.cocodataset.org/val2017/000000049060.jpg,['platform']
+414385,Man riding a skate board towards the traffic on a two lane roadway.,http://images.cocodataset.org/val2017/000000414385.jpg,['roadway']
+140270,A person riding on the back of a horse walking across a field.,http://images.cocodataset.org/val2017/000000140270.jpg,['field']
+520659,a white tent cover and many surfboards in a rack and people,http://images.cocodataset.org/val2017/000000520659.jpg,['tent']
+363461,A computer desk and chair looks like a home office.,http://images.cocodataset.org/val2017/000000363461.jpg,"['home', 'office']"
+466986,A man cooks in a kitchen that is made of all stainless steel.,http://images.cocodataset.org/val2017/000000466986.jpg,['kitchen']
+448263,A baseball player talking to a small child on the field.,http://images.cocodataset.org/val2017/000000448263.jpg,['field']
+29393,A brown dog standing on a wooden bench near a lemon tree.,http://images.cocodataset.org/val2017/000000029393.jpg,['tree']
+571857,A man and woman who have set up camp on a sandy beach,http://images.cocodataset.org/val2017/000000571857.jpg,['beach']
+431545,Baseball player runs toward base while others stand around,http://images.cocodataset.org/val2017/000000431545.jpg,['base']
+302990,A person with a surfboard in a room.,http://images.cocodataset.org/val2017/000000302990.jpg,['room']
+157213,The elephant walks on a big grass field.,http://images.cocodataset.org/val2017/000000157213.jpg,"['field', 'grass']"
+300233,The ingredients are on the kitchen counter next to the blender.,http://images.cocodataset.org/val2017/000000300233.jpg,['kitchen']
+267434,A group of cows grazing in a grassy field.,http://images.cocodataset.org/val2017/000000267434.jpg,['field']
+326174,A group of surfers are carrying their surf boards into the ocean.,http://images.cocodataset.org/val2017/000000326174.jpg,['ocean']
+482585,Two trains sit idle in a train station,http://images.cocodataset.org/val2017/000000482585.jpg,['station']
+33109,A semi truck is driving down a street.,http://images.cocodataset.org/val2017/000000033109.jpg,['street']
+4765,A man surfing on a large wave in the ocean.,http://images.cocodataset.org/val2017/000000004765.jpg,['ocean']
+461405,A herd of sheep walking across a lush green field.,http://images.cocodataset.org/val2017/000000461405.jpg,['field']
+186624,a woman stands next to a parked train,http://images.cocodataset.org/val2017/000000186624.jpg,['train']
+496954,A slice of cake sitting top of a white plate.,http://images.cocodataset.org/val2017/000000496954.jpg,['top']
+356169,We are looking at an almost empty street.,http://images.cocodataset.org/val2017/000000356169.jpg,['street']
+193884,stop sign on a street of a cemetary,http://images.cocodataset.org/val2017/000000193884.jpg,['street']
+142790,two people on skis falling in the snow,http://images.cocodataset.org/val2017/000000142790.jpg,['snow']
+390301,A fire hydrant with frozen water coming out of it.,http://images.cocodataset.org/val2017/000000390301.jpg,['water']
+576031,a person riding skis on a snowy slope,http://images.cocodataset.org/val2017/000000576031.jpg,['slope']
+520659,A white tent with a row of surfboards sitting under it.,http://images.cocodataset.org/val2017/000000520659.jpg,['tent']
+451714,a person riding skis on a snowy surface,http://images.cocodataset.org/val2017/000000451714.jpg,['surface']
+309678,A large square pizza sitting on top of a pan.,http://images.cocodataset.org/val2017/000000309678.jpg,"['square', 'top']"
+147725,A metro bus driving down a fairly busy city street.,http://images.cocodataset.org/val2017/000000147725.jpg,"['street', 'city']"
+149622,"The birds are sitting next to each other on a tree branch,",http://images.cocodataset.org/val2017/000000149622.jpg,['tree']
+574702,A row of motorcycles parked next to a building.,http://images.cocodataset.org/val2017/000000574702.jpg,['building']
+204871,A sticker has been placed onto a fire hydrant on a sidewalk.,http://images.cocodataset.org/val2017/000000204871.jpg,['sidewalk']
+61333,The caramel-colored kitten is  lying on the small blanket on top of the unmade bed.,http://images.cocodataset.org/val2017/000000061333.jpg,['top']
+264968,a baseball player standing in the grass with a bat in his hand,http://images.cocodataset.org/val2017/000000264968.jpg,['grass']
+60449,Balcony overlooking the tropical beach.,http://images.cocodataset.org/val2017/000000060449.jpg,"['beach', 'tropic']"
+36494,a bunch of people gathered inside of a building,http://images.cocodataset.org/val2017/000000036494.jpg,['building']
+322829,A BENCH IS SEATED ON THE GRASS,http://images.cocodataset.org/val2017/000000322829.jpg,['grass']
+502136,a yellow and brown wall a gray door and a sign,http://images.cocodataset.org/val2017/000000502136.jpg,['wall']
+383606,a bathroom with a sink and a mirror,http://images.cocodataset.org/val2017/000000383606.jpg,['bathroom']
+178618,An elephant standing in a dust filled field.,http://images.cocodataset.org/val2017/000000178618.jpg,['field']
+405970,The green room has large windows over looking the city.,http://images.cocodataset.org/val2017/000000405970.jpg,"['room', 'city']"
+31269,three zebras in a field near bushes,http://images.cocodataset.org/val2017/000000031269.jpg,['field']
+372317,an image of a tour bus that is parked on the street,http://images.cocodataset.org/val2017/000000372317.jpg,['street']
+157098,Three giraffe's in a green grassy tree filled area.,http://images.cocodataset.org/val2017/000000157098.jpg,"['grassy', 'tree']"
+414340,An empty street and steeple with a clock on it,http://images.cocodataset.org/val2017/000000414340.jpg,"['steeple', 'street']"
+138241,Three plates of food showing a meal in the shape of log covered with vegetables.,http://images.cocodataset.org/val2017/000000138241.jpg,['log']
+1761,Two airplanes flying in the sky above a black bridge.,http://images.cocodataset.org/val2017/000000001761.jpg,"['sky', 'bridge']"
+169169,A sign announcing the season a people walk on the sidewalk.,http://images.cocodataset.org/val2017/000000169169.jpg,['sidewalk']
+47828,People walk by a boat near a lighted bridge,http://images.cocodataset.org/val2017/000000047828.jpg,['bridge']
+231088,Several umbrellas of different colors are hanging in the sun.,http://images.cocodataset.org/val2017/000000231088.jpg,['sun']
+430377,A woman standing on a  mountain with skis and poles.,http://images.cocodataset.org/val2017/000000430377.jpg,['mountain']
+459437,Several lambs leaning up and over a wooden post towards a red cup held by a man.,http://images.cocodataset.org/val2017/000000459437.jpg,['post']
+407574,A stack of bananas are sitting in a tree by signs.,http://images.cocodataset.org/val2017/000000407574.jpg,['tree']
+322574,Bread in a paper bag on top of french fries in paper container with a drink on the side.,http://images.cocodataset.org/val2017/000000322574.jpg,['top']
+225405,Two young boys kick a soccer ball on a soccer field,http://images.cocodataset.org/val2017/000000225405.jpg,['field']
+569972,a man on a surf board stands in shallow water,http://images.cocodataset.org/val2017/000000569972.jpg,['water']
+94157,"A large, ornate clock tower rises above another skyscraper.",http://images.cocodataset.org/val2017/000000094157.jpg,['tower']
+547886,Four riders are on horses on the beach.,http://images.cocodataset.org/val2017/000000547886.jpg,['beach']
+28285,A small white tower off of a tiled roof.,http://images.cocodataset.org/val2017/000000028285.jpg,['roof']
+558558,An intersection with oncoming traffic and blurry stop lights.,http://images.cocodataset.org/val2017/000000558558.jpg,['intersection']
+7281,Two men smile as they ride horses on the beach.,http://images.cocodataset.org/val2017/000000007281.jpg,['beach']
+6723,A street with a row of older red brick building on one side.,http://images.cocodataset.org/val2017/000000006723.jpg,"['street', 'building']"
+22396,"a plane flying by a bright moon in the sky
+",http://images.cocodataset.org/val2017/000000022396.jpg,"['moon', 'sky']"
+210388,The people are trying to climb the mountain.,http://images.cocodataset.org/val2017/000000210388.jpg,['mountain']
+234807,Horses are standing in a field outside of a crumbling castle.,http://images.cocodataset.org/val2017/000000234807.jpg,['field']
+455555,A boy riding a skateboard on a sidewalk as another laughs in the background.,http://images.cocodataset.org/val2017/000000455555.jpg,['sidewalk']
+54628,A tall multi layer cake sitting on top of a blue table cloth.,http://images.cocodataset.org/val2017/000000054628.jpg,['top']
+313182,A purple and white city bus pulling up to the curb,http://images.cocodataset.org/val2017/000000313182.jpg,['city']
+425702,A lone surfer carries his board next to the shore.,http://images.cocodataset.org/val2017/000000425702.jpg,['shore']
+207306,A white teddy bear sitting on top of a trash can.,http://images.cocodataset.org/val2017/000000207306.jpg,['top']
+134034,a horse and a donkey eating grass in a fenced in pasture,http://images.cocodataset.org/val2017/000000134034.jpg,"['pasture', 'grass']"
+140840,Large assortment of kites on large field at outdoor event.,http://images.cocodataset.org/val2017/000000140840.jpg,['field']
+64523,An all female tennis team taking a group photo on a tennis court,http://images.cocodataset.org/val2017/000000064523.jpg,['court']
+392228,a clock on a building with a sky background,http://images.cocodataset.org/val2017/000000392228.jpg,"['building', 'sky']"
+167240,A brightly colored flower vase sits in front of a wall map.,http://images.cocodataset.org/val2017/000000167240.jpg,['wall']
+563702,Firefighters and three firetrucks are parked on a street.,http://images.cocodataset.org/val2017/000000563702.jpg,['street']
+573943,"Yellow, white and blue trucks are parked in a parking lot.",http://images.cocodataset.org/val2017/000000573943.jpg,['parking']
+256775,Young children are at the beach flying a toy story kite.,http://images.cocodataset.org/val2017/000000256775.jpg,['beach']
+488592,there are many different stores along this long hallway,http://images.cocodataset.org/val2017/000000488592.jpg,"['hallway', 'store']"
+464824,The woman is bending over to pick something up off of the ground.,http://images.cocodataset.org/val2017/000000464824.jpg,['ground']
+416837,A brown cow grazing on grass on a mountain.,http://images.cocodataset.org/val2017/000000416837.jpg,"['mountain', 'grass']"
+223747,Man sleeping in his bedroom next to a cat.,http://images.cocodataset.org/val2017/000000223747.jpg,['bedroom']
+79588,An old stone and brick building three stories high.,http://images.cocodataset.org/val2017/000000079588.jpg,['building']
+189226,A red and silver fire hydrant sitting on top of a sidewalk.,http://images.cocodataset.org/val2017/000000189226.jpg,"['top', 'sidewalk']"
+118209,Two horses standing behind a wire fence on the grass.,http://images.cocodataset.org/val2017/000000118209.jpg,['grass']
+537827,Two baseball players stand near the baseball field.,http://images.cocodataset.org/val2017/000000537827.jpg,['field']
+472046,A kitchen and dining area in a house with an open floor plan that looks out over the landscape from a large set of windows.,http://images.cocodataset.org/val2017/000000472046.jpg,"['house', 'kitchen']"
+2261,A man in a black shirt plays on an ocean wave.,http://images.cocodataset.org/val2017/000000002261.jpg,['ocean']
+239537,a man swinging a tennis racket and hitting a ball on a tennis court.,http://images.cocodataset.org/val2017/000000239537.jpg,['court']
+463647,A couple of signs and vehicles on a road.,http://images.cocodataset.org/val2017/000000463647.jpg,['road']
+146363,A beach chair and umbrella sit for another day at the beach.,http://images.cocodataset.org/val2017/000000146363.jpg,['beach']
+71451,A clean bed in a hotel room with towels and soap laid out,http://images.cocodataset.org/val2017/000000071451.jpg,"['room', 'hotel']"
+82812,Pedestrians standing outside a train station waiting for the train.,http://images.cocodataset.org/val2017/000000082812.jpg,['station']
+349678,A train station clock tower with flags flying above it.,http://images.cocodataset.org/val2017/000000349678.jpg,"['station', 'tower', 'train']"
+222317,A dog laying on a couch in a living room.,http://images.cocodataset.org/val2017/000000222317.jpg,['room']
+138492,A dog catching a purple Frisbee in it's mouth on a green grass covered field.,http://images.cocodataset.org/val2017/000000138492.jpg,"['field', 'grass']"
+232088,this living room has all white couches and a flat screen tv,http://images.cocodataset.org/val2017/000000232088.jpg,['room']
+355677,a life guard station with a surf boar and a floatee,http://images.cocodataset.org/val2017/000000355677.jpg,['station']
+132329,A refrigerator that has nothing but water in it.,http://images.cocodataset.org/val2017/000000132329.jpg,['water']
+492284,a woman standing near a gate made of rock with her black cat,http://images.cocodataset.org/val2017/000000492284.jpg,['rock']
+507081,"A kitchen with a stove, sink and coffee maker.",http://images.cocodataset.org/val2017/000000507081.jpg,['kitchen']
+360943,An orange tabby cat lies down outside a door on a house porch.,http://images.cocodataset.org/val2017/000000360943.jpg,['house']
+87875,A fire hydrant in a grassy field next to a bush,http://images.cocodataset.org/val2017/000000087875.jpg,['field']
+115946,Cars are parked on both sides of the narrow street full of tall buildings.,http://images.cocodataset.org/val2017/000000115946.jpg,"['street', 'building']"
+55950,a man is on a court with a tennis racket,http://images.cocodataset.org/val2017/000000055950.jpg,['court']
+324258,Adults playing in living room using remote controllers.,http://images.cocodataset.org/val2017/000000324258.jpg,['room']
+33114,A airplane that is sitting on a runway.,http://images.cocodataset.org/val2017/000000033114.jpg,['runway']
+485424,Various items sit on top of tables and counters.,http://images.cocodataset.org/val2017/000000485424.jpg,['top']
+289960,A person standing on top of a beach flying a kite.,http://images.cocodataset.org/val2017/000000289960.jpg,"['beach', 'top']"
+248111,This basic kitchen has tools sitting on the floor,http://images.cocodataset.org/val2017/000000248111.jpg,['kitchen']
+14007,A brown colored cat is on top of a tall gray cabinet.,http://images.cocodataset.org/val2017/000000014007.jpg,"['top', 'cabinet']"
+465822,A woman standing in front of a camera in a room filled with a group of people.,http://images.cocodataset.org/val2017/000000465822.jpg,['room']
+7574,A kitchen with a very messy counter space.,http://images.cocodataset.org/val2017/000000007574.jpg,"['kitchen', 'space']"
+333069,Giraffe trying to stand up after sitting in the grass,http://images.cocodataset.org/val2017/000000333069.jpg,['grass']
+452784,a person washing something under the running water of a faucet next to a bowl of greens.,http://images.cocodataset.org/val2017/000000452784.jpg,['water']
+482970,An open laptop and speakers on top of a desk.,http://images.cocodataset.org/val2017/000000482970.jpg,['top']
+100283,A stop sign on the corner in front of a row of stores.,http://images.cocodataset.org/val2017/000000100283.jpg,['store']
+100274,A long train traveling through a train yard.,http://images.cocodataset.org/val2017/000000100274.jpg,['yard']
+222559,A group of boats floating on top of a lake next to shore.,http://images.cocodataset.org/val2017/000000222559.jpg,"['top', 'lake', 'shore']"
+84270,An airport lobby in which several people stroll by with their luggage.,http://images.cocodataset.org/val2017/000000084270.jpg,['airport']
+561335,A green coat flipped upside down on top of a beach.,http://images.cocodataset.org/val2017/000000561335.jpg,"['beach', 'top']"
+326462,A red icing doughnut with sprinkles on top.,http://images.cocodataset.org/val2017/000000326462.jpg,['top']
+224675,A man and a lady on the street with an umbrella.,http://images.cocodataset.org/val2017/000000224675.jpg,['street']
+245102,A snow covered ramp in a parking garage,http://images.cocodataset.org/val2017/000000245102.jpg,"['parking', 'garage', 'snow']"
+166509,A road in the middle of a beautiful green forest,http://images.cocodataset.org/val2017/000000166509.jpg,"['forest', 'road']"
+380913,Five people sitting on a subway checking their phones,http://images.cocodataset.org/val2017/000000380913.jpg,['subway']
+284725,A red bus parked on a street with another vehicle parked nearby.,http://images.cocodataset.org/val2017/000000284725.jpg,['street']
+455716,"Motorcycles lined-up in an empty, grassy field, all in front of a house.",http://images.cocodataset.org/val2017/000000455716.jpg,"['field', 'house']"
+172935,A person doing a trick on water ski's while another passes underneath them.,http://images.cocodataset.org/val2017/000000172935.jpg,['water']
+239717,Server smiling while carrying food inside a busy restaurant.,http://images.cocodataset.org/val2017/000000239717.jpg,['restaurant']
+389109,Pizza on a table at an outdoor restaurant at night,http://images.cocodataset.org/val2017/000000389109.jpg,"['night', 'restaurant']"
+304396,A tall building with several windows and two clocks on it.,http://images.cocodataset.org/val2017/000000304396.jpg,['building']
+389684,a man walks down a sidewalk as a vehicle passes,http://images.cocodataset.org/val2017/000000389684.jpg,['sidewalk']
+309391,Cars move along highways with a lot of traffic lights.,http://images.cocodataset.org/val2017/000000309391.jpg,['highway']
+165831,here is a large tray of vegetables sitting on a counter top.,http://images.cocodataset.org/val2017/000000165831.jpg,['top']
+509735,A group of zebras and giraffes by a water hole.,http://images.cocodataset.org/val2017/000000509735.jpg,"['hole', 'water']"
+2592,Decorated coffee cup and knife sitting on a patterned surface.,http://images.cocodataset.org/val2017/000000002592.jpg,['surface']
+567740,Two people wearing skis on a snowy slope.,http://images.cocodataset.org/val2017/000000567740.jpg,['slope']
+575243,a man that is walking down the street with a umbrella,http://images.cocodataset.org/val2017/000000575243.jpg,['street']
+140439,vase full of tulips arranged on a table in someones kitchen,http://images.cocodataset.org/val2017/000000140439.jpg,['kitchen']
+530052,A pile of carrots for sale in an outside market.,http://images.cocodataset.org/val2017/000000530052.jpg,"['market', 'pile']"
+155571,A brown elephant is walking along the grass.,http://images.cocodataset.org/val2017/000000155571.jpg,['grass']
+197870,A chicken is standing under a bench in a park.,http://images.cocodataset.org/val2017/000000197870.jpg,['park']
+194506,Two small bears playing in the water together,http://images.cocodataset.org/val2017/000000194506.jpg,['water']
+269113,three dogs playing outdoors during a sunny day in the grass,http://images.cocodataset.org/val2017/000000269113.jpg,"['outdoors', 'grass']"
+279278,The man is riding his skateboard down the street.,http://images.cocodataset.org/val2017/000000279278.jpg,['street']
+355905,A dog is running on the beach sand.,http://images.cocodataset.org/val2017/000000355905.jpg,['beach']
+414340,a tall clock tower with trees all around,http://images.cocodataset.org/val2017/000000414340.jpg,"['tree', 'tower']"
+392228,Gold trimmed clock on top  of roof of building,http://images.cocodataset.org/val2017/000000392228.jpg,"['top', 'roof', 'building']"
+252216,a close up of two animals in an open field,http://images.cocodataset.org/val2017/000000252216.jpg,['field']
+14226,A man sitting at a table using a lap top.,http://images.cocodataset.org/val2017/000000014226.jpg,['top']
+276707,A close-up of a street sign with small shops in the background.,http://images.cocodataset.org/val2017/000000276707.jpg,"['street', 'shop']"
+57238,A corner of a kitchen with a big fridge.,http://images.cocodataset.org/val2017/000000057238.jpg,['kitchen']
+373315,a boy riding a skateboard on the edge of a wall,http://images.cocodataset.org/val2017/000000373315.jpg,['wall']
+342971,A man wearing sunglasses and a coat catching a frisbee.,http://images.cocodataset.org/val2017/000000342971.jpg,['sunglass']
+85576,An empty toilet stall with two rolls of used toilet paper and one full roll.,http://images.cocodataset.org/val2017/000000085576.jpg,['stall']
+466085,A bathroom that has been gutted with the shower basin the only thing left.,http://images.cocodataset.org/val2017/000000466085.jpg,['bathroom']
+314251,A group of motorcycles down a long street filled with trees on either side.,http://images.cocodataset.org/val2017/000000314251.jpg,"['street', 'tree']"
+360097,A pile of luggage sitting up against a white fence.,http://images.cocodataset.org/val2017/000000360097.jpg,['pile']
+163951,A banana on top of a chair with a white background behind.,http://images.cocodataset.org/val2017/000000163951.jpg,['top']
+580410,A living room with a white couch and library shelves,http://images.cocodataset.org/val2017/000000580410.jpg,['room']
+303863,A train driving down the rail road tracks in a city.,http://images.cocodataset.org/val2017/000000303863.jpg,"['track', 'road', 'city']"
+448810,Number of street signs in front of a big building.,http://images.cocodataset.org/val2017/000000448810.jpg,"['street', 'building']"
+51309,A group of horses and a baby horse eat hay at a farm.,http://images.cocodataset.org/val2017/000000051309.jpg,['farm']
+124442,A man is flying a kite on a beach.,http://images.cocodataset.org/val2017/000000124442.jpg,['beach']
+323751,A train one track away from a platform at a stop.,http://images.cocodataset.org/val2017/000000323751.jpg,"['track', 'platform']"
+266981,People sit and walk around a large hotel parking lot.,http://images.cocodataset.org/val2017/000000266981.jpg,"['parking', 'hotel']"
+114884,A group of people standing in a large building.,http://images.cocodataset.org/val2017/000000114884.jpg,['building']
+250282,A group of school children posing for a picture.,http://images.cocodataset.org/val2017/000000250282.jpg,['school']
+456292,A picture of a cat going through a cat door has been put on the wall.,http://images.cocodataset.org/val2017/000000456292.jpg,['wall']
+97337,A TV is on in this unique and eclectic living room.,http://images.cocodataset.org/val2017/000000097337.jpg,['room']
+499768,The fire hydrant has a lot of weeds by it on the side of the road.,http://images.cocodataset.org/val2017/000000499768.jpg,['road']
+221213,A long train filled with tanker cars on rail road tracks.,http://images.cocodataset.org/val2017/000000221213.jpg,"['track', 'road']"
+99428,a laptop with some other electronics on top of it,http://images.cocodataset.org/val2017/000000099428.jpg,['top']
+60932,A group of people standing in a room.,http://images.cocodataset.org/val2017/000000060932.jpg,['room']
+312340,A black and white cat sitting on top of leaves.,http://images.cocodataset.org/val2017/000000312340.jpg,['top']
+393093,The train is going over the busy urban bridge.,http://images.cocodataset.org/val2017/000000393093.jpg,"['bridge', 'urban']"
+503823,some boats are docked on the sand at a beach,http://images.cocodataset.org/val2017/000000503823.jpg,['beach']
+195918,A couple of computer monitors sitting on top of a desk.,http://images.cocodataset.org/val2017/000000195918.jpg,['top']
+477623,A train on the tracks near a train station,http://images.cocodataset.org/val2017/000000477623.jpg,"['track', 'station']"
+55150,Two little children on stroller in a parking lot.,http://images.cocodataset.org/val2017/000000055150.jpg,['parking']
+486040,An office with a couple of computers on a desk and a work ligt.,http://images.cocodataset.org/val2017/000000486040.jpg,['office']
+498286,A grey dog with a black collar sits outside in the sun.,http://images.cocodataset.org/val2017/000000498286.jpg,['sun']
+224807,People sitting down in the restaurant eating meals,http://images.cocodataset.org/val2017/000000224807.jpg,['restaurant']
+78266,Kitchen utensils and appliances have been left unattended,http://images.cocodataset.org/val2017/000000078266.jpg,['kitchen']
+210388,Some people are walking in the snow and having fun.,http://images.cocodataset.org/val2017/000000210388.jpg,['snow']
+84170,Cars turn on the road in the rain.,http://images.cocodataset.org/val2017/000000084170.jpg,"['rain', 'rain']"
+308531,a tall clock tower with bushes and trees in the foreground,http://images.cocodataset.org/val2017/000000308531.jpg,"['foreground', 'tree', 'tower']"
+183049,Three level book shelve with many books in front of blue wall.,http://images.cocodataset.org/val2017/000000183049.jpg,['wall']
+90108,a bathroom with blue and white walls,http://images.cocodataset.org/val2017/000000090108.jpg,['wall']
+475484,A parking meter is decorated with a house.,http://images.cocodataset.org/val2017/000000475484.jpg,"['parking', 'house']"
+276720,A house lined road with red trucks on the side of the street,http://images.cocodataset.org/val2017/000000276720.jpg,"['road', 'house', 'street']"
+366178,A red fire hydrant sitting on the side of a road.,http://images.cocodataset.org/val2017/000000366178.jpg,['road']
+440617,A train is traveling along a stretch of track.,http://images.cocodataset.org/val2017/000000440617.jpg,['track']
+117645,A man riding a snowboard down a snow covered slope.,http://images.cocodataset.org/val2017/000000117645.jpg,"['snow', 'slope']"
+284725,A red bus sitting on the side of a road.,http://images.cocodataset.org/val2017/000000284725.jpg,['road']
+297698,a man on skis fly through the sky,http://images.cocodataset.org/val2017/000000297698.jpg,['sky']
+30494,A black and brown dog digging at an object on a dirt ground.,http://images.cocodataset.org/val2017/000000030494.jpg,['ground']
+508602,a close up of a bird on top of a parked car,http://images.cocodataset.org/val2017/000000508602.jpg,['top']
+546823,A dog is next to a tree and a bunch of people are walking up to colored umbrellas and some have rested under a tree.,http://images.cocodataset.org/val2017/000000546823.jpg,['tree']
+105264,A bull is running freely on the beach with other boys.,http://images.cocodataset.org/val2017/000000105264.jpg,['beach']
+226154,A green and white bus on street next to dirt area.,http://images.cocodataset.org/val2017/000000226154.jpg,['street']
+246436,A man making food on a range in a kitchen.,http://images.cocodataset.org/val2017/000000246436.jpg,['kitchen']
+35770,A store with a variety of toilets of different colors and designs.,http://images.cocodataset.org/val2017/000000035770.jpg,['store']
+133000,Commuter train on tracks that set above the city.,http://images.cocodataset.org/val2017/000000133000.jpg,"['track', 'city']"
+159399,a person on a field flying a kite with trees in the background,http://images.cocodataset.org/val2017/000000159399.jpg,"['field', 'tree']"
+574315,A cat resting on top of a laptop computer.,http://images.cocodataset.org/val2017/000000574315.jpg,['top']
+385997,A living room filled with furniture and a large window.,http://images.cocodataset.org/val2017/000000385997.jpg,['room']
+171788,A man plays tennis on a clay court,http://images.cocodataset.org/val2017/000000171788.jpg,['court']
+551794,A man on a motorcycle resting on the side of a country road,http://images.cocodataset.org/val2017/000000551794.jpg,['road']
+275198,A family having lunch in their backyard in the rain.,http://images.cocodataset.org/val2017/000000275198.jpg,"['backyard', 'rain']"
+569825,A young man in a pinstriped baseball uniform wearing catchers gear standing at home plate.,http://images.cocodataset.org/val2017/000000569825.jpg,['home']
+439854,A man riding a skateboard along a sandy beach.,http://images.cocodataset.org/val2017/000000439854.jpg,['beach']
+67406,Two people standing in a field flying a kite,http://images.cocodataset.org/val2017/000000067406.jpg,['field']
+279541,A display of different pizzas in a restaurant.,http://images.cocodataset.org/val2017/000000279541.jpg,['restaurant']
+555705,Two cats sitting on top of a pair of shoes.,http://images.cocodataset.org/val2017/000000555705.jpg,['top']
+463849,a canal with lots of boats and buildings on either side,http://images.cocodataset.org/val2017/000000463849.jpg,['building']
+266206,Partially open door leading to a kitchen from a hallway.,http://images.cocodataset.org/val2017/000000266206.jpg,"['hallway', 'kitchen']"
+180011,A boy feeding four giraffes at a zoo from his hand,http://images.cocodataset.org/val2017/000000180011.jpg,['zoo']
+343524,A male tennis player is preparing to serve the ball tennis court,http://images.cocodataset.org/val2017/000000343524.jpg,['court']
+195754,A very big country style living room with a wagon wheel.,http://images.cocodataset.org/val2017/000000195754.jpg,['room']
+439623,A white fire hydrant sitting on a  sidewalk.,http://images.cocodataset.org/val2017/000000439623.jpg,['sidewalk']
+17178,horses stand around on a neighborhood street in front of a car,http://images.cocodataset.org/val2017/000000017178.jpg,"['street', 'neighborhood']"
+404128,A propellor airplane is on a grassy runway.,http://images.cocodataset.org/val2017/000000404128.jpg,['runway']
+455597,a woman in a congested kitchen in ahotel,http://images.cocodataset.org/val2017/000000455597.jpg,['kitchen']
+306893,Red and white train at the end of a train station.,http://images.cocodataset.org/val2017/000000306893.jpg,['station']
+206838,Two beautiful women riding horses in the ocean in bikinis.,http://images.cocodataset.org/val2017/000000206838.jpg,['ocean']
+441468,A red fire hydrant is on a crosswalk intersection.,http://images.cocodataset.org/val2017/000000441468.jpg,['intersection']
+152120,A man in a jean jacket riding a motorcycle on a road.,http://images.cocodataset.org/val2017/000000152120.jpg,['road']
+337055,A woman is sitting with a suitcase on some train tracks.,http://images.cocodataset.org/val2017/000000337055.jpg,"['track', 'train']"
+6954,A group of children sitting in the grass with two of them holding a Frisbee .,http://images.cocodataset.org/val2017/000000006954.jpg,['grass']
+194216,A family of bears walking through a forest with lots of trees.,http://images.cocodataset.org/val2017/000000194216.jpg,"['forest', 'tree']"
+476215,A man holding horse reins connected to 2 horses on a dirt field.,http://images.cocodataset.org/val2017/000000476215.jpg,['field']
+107554,A wheelbarrow sitting in a field next to a surfboard.,http://images.cocodataset.org/val2017/000000107554.jpg,['field']
+537270,Three students check their cell phones in a classroom.,http://images.cocodataset.org/val2017/000000537270.jpg,['classroom']
+519569,A very nice large modern style kitchen with a bar.,http://images.cocodataset.org/val2017/000000519569.jpg,['kitchen']
+55299,A bird that is sitting on a rock near the water.,http://images.cocodataset.org/val2017/000000055299.jpg,"['water', 'rock']"
+535608,some people sitting and standing on the beach,http://images.cocodataset.org/val2017/000000535608.jpg,['beach']
+355817,A bus parked in front of a brick building.,http://images.cocodataset.org/val2017/000000355817.jpg,['building']
+380706,A man riding a motorcycle down a city street.,http://images.cocodataset.org/val2017/000000380706.jpg,"['street', 'city']"
+184338,A large colorful truck with a with a wooden building on it's back.,http://images.cocodataset.org/val2017/000000184338.jpg,['building']
+121242,Horse drawn carriage in wide open field with old fashioned clothing,http://images.cocodataset.org/val2017/000000121242.jpg,['field']
+563349,A person on a board holding a para sail rope over a snow field.,http://images.cocodataset.org/val2017/000000563349.jpg,['field']
+36494,the people are all in a restaurant some are sitting,http://images.cocodataset.org/val2017/000000036494.jpg,['restaurant']
+79837,a lake with a lot of boats on it,http://images.cocodataset.org/val2017/000000079837.jpg,"['lake', 'boat']"
+396580,A canoe in the water near grass and a house.,http://images.cocodataset.org/val2017/000000396580.jpg,"['house', 'water', 'grass']"
+340175,a living room with a big table next to a book shelf,http://images.cocodataset.org/val2017/000000340175.jpg,['room']
+107554,A surfboard leaning on a wheelbarrow in a backyard.,http://images.cocodataset.org/val2017/000000107554.jpg,['backyard']
+168337,a city scene of a sidewalk with a red fire hydrant on a sidewalk next to an ATM,http://images.cocodataset.org/val2017/000000168337.jpg,"['city', 'sidewalk']"
+78266,a work room that looks like a dry cleaners,http://images.cocodataset.org/val2017/000000078266.jpg,['room']
+377946,Catering truck parked tightly between cars on a city street.,http://images.cocodataset.org/val2017/000000377946.jpg,"['street', 'city']"
+318080,Two brown bears growling at each other while laying on a log.,http://images.cocodataset.org/val2017/000000318080.jpg,['log']
+481386,A woman in white dress leaning on a counter in a kitchen.,http://images.cocodataset.org/val2017/000000481386.jpg,['kitchen']
+440508,Multiple orange train engines on tracks with trees on each side.,http://images.cocodataset.org/val2017/000000440508.jpg,"['track', 'tree']"
+338304,sheep running through town all together in a crowd,http://images.cocodataset.org/val2017/000000338304.jpg,['town']
+254814,A crowded city street filled with motorcycle and car traffic.,http://images.cocodataset.org/val2017/000000254814.jpg,"['street', 'city']"
+162130,A wooden bench is sitting next to a grassy field.,http://images.cocodataset.org/val2017/000000162130.jpg,['field']
+338532,A small giraffe standing on sand in its zoo enclosure,http://images.cocodataset.org/val2017/000000338532.jpg,['zoo']
+67180,A woman sitting on a wooden bench on a wall.,http://images.cocodataset.org/val2017/000000067180.jpg,['wall']
+377113,a water skier in a red and white shirt and hat,http://images.cocodataset.org/val2017/000000377113.jpg,['water']
+330369,The red ship is in the sea next to the pier.,http://images.cocodataset.org/val2017/000000330369.jpg,"['ship', 'pier', 'sea']"
+577864,3 People in a dirt field playing soccer.,http://images.cocodataset.org/val2017/000000577864.jpg,['field']
+161781,A woman in gear skiing down a snowy slope,http://images.cocodataset.org/val2017/000000161781.jpg,['slope']
+554266,a bunch of stuff in a home living room,http://images.cocodataset.org/val2017/000000554266.jpg,"['room', 'home']"
+308545,A little child riding on top of a white horse.,http://images.cocodataset.org/val2017/000000308545.jpg,['top']
+393469,A man standing next to a snowboard in the snow.,http://images.cocodataset.org/val2017/000000393469.jpg,['snow']
+298396,A kitchen filled with appliances dishes and a bowl of fruit.,http://images.cocodataset.org/val2017/000000298396.jpg,['kitchen']
+225532,A highway filled with lots of traffic nest to a traffic light.,http://images.cocodataset.org/val2017/000000225532.jpg,['highway']
+30213,A kitchen filled with a stove top oven and a refrigerator.,http://images.cocodataset.org/val2017/000000030213.jpg,"['kitchen', 'top']"
+572555,A long train is going down the train tracks.,http://images.cocodataset.org/val2017/000000572555.jpg,['track']
+201775,White stalls installed on the walls of a men's room.,http://images.cocodataset.org/val2017/000000201775.jpg,"['wall', 'stall']"
+286849,Four giraffes look around a rock corner in their enclosure.,http://images.cocodataset.org/val2017/000000286849.jpg,['rock']
+109976,A white stove sits between two small counter tops.,http://images.cocodataset.org/val2017/000000109976.jpg,['top']
+249643,A train on its tracks with a Mannheim sign on the front.,http://images.cocodataset.org/val2017/000000249643.jpg,['track']
+472298,two people in a red boat on water,http://images.cocodataset.org/val2017/000000472298.jpg,['water']
+445675,One tall giraffe on top of the dry terrain.,http://images.cocodataset.org/val2017/000000445675.jpg,['top']
+279145,A wooden bench surrounded by potted plants in front of a house.,http://images.cocodataset.org/val2017/000000279145.jpg,['house']
+205514,A flat screen mounted to a wall in a living room.,http://images.cocodataset.org/val2017/000000205514.jpg,"['room', 'wall']"
+136355,a bright kitchen with tulips on the table and plants by the window,http://images.cocodataset.org/val2017/000000136355.jpg,['kitchen']
+543300,A cruise ship awaits departure at the pier.,http://images.cocodataset.org/val2017/000000543300.jpg,"['ship', 'pier']"
+319696,A red microwave on a tile kitchen counter.,http://images.cocodataset.org/val2017/000000319696.jpg,['kitchen']
+350607,The bench sitting on the side of the road is multi-colored.,http://images.cocodataset.org/val2017/000000350607.jpg,['road']
+183709,A group of people wait to cross an intersection.,http://images.cocodataset.org/val2017/000000183709.jpg,['intersection']
+408830,A BMW motorcycle is parked on display in this field,http://images.cocodataset.org/val2017/000000408830.jpg,['field']
+171740,A room with a day bed is very cluttered and dusty.,http://images.cocodataset.org/val2017/000000171740.jpg,['room']
+95069,Several green spires on towers are part of the architecture.,http://images.cocodataset.org/val2017/000000095069.jpg,"['part', 'tower']"
+285788,Two giraffes that are standing in the grass.,http://images.cocodataset.org/val2017/000000285788.jpg,['grass']
+25228,girl sitting on surfboard at sunset on the ocean,http://images.cocodataset.org/val2017/000000025228.jpg,"['sunset', 'ocean']"
+22396,an air plane in the sky with  a three quarter moon out,http://images.cocodataset.org/val2017/000000022396.jpg,"['moon', 'sky']"
+392481,A fighter jet gaining altitude in a cloudy sky.,http://images.cocodataset.org/val2017/000000392481.jpg,"['cloudy', 'sky']"
+549738,A photo of a kite is a town in the background.,http://images.cocodataset.org/val2017/000000549738.jpg,['town']
+506656,A man standing in front of some Clysdale horses in front of some houses.,http://images.cocodataset.org/val2017/000000506656.jpg,['house']
+433515,A large colorful kite is being flown over a field.,http://images.cocodataset.org/val2017/000000433515.jpg,['field']
+183500,A red and white plane flying through a cloudy sky.,http://images.cocodataset.org/val2017/000000183500.jpg,"['cloudy', 'sky']"
+566758,a school bus on a city street,http://images.cocodataset.org/val2017/000000566758.jpg,"['street', 'school', 'city']"
+319721,A woman stands beside a large brown horse.,http://images.cocodataset.org/val2017/000000319721.jpg,['horse']
+110359,A ground view of an airplane in the sky.,http://images.cocodataset.org/val2017/000000110359.jpg,"['ground', 'sky']"
+360951,there is a lap top and a desk top on this table,http://images.cocodataset.org/val2017/000000360951.jpg,['top']
+521717,A woman on a tennis court is swinging a racquet.,http://images.cocodataset.org/val2017/000000521717.jpg,['court']
+89078,A woman with a hoody and gloves on standing in the snow.,http://images.cocodataset.org/val2017/000000089078.jpg,['snow']
+109916,Two cake pans with cake on top of a stove.,http://images.cocodataset.org/val2017/000000109916.jpg,['top']
+196843,"A painted school bus reads ""Van Gogh Museum Bus"".",http://images.cocodataset.org/val2017/000000196843.jpg,"['museum', 'school']"
+359219,Two pizzas sitting in pie pans on top of  a stove.,http://images.cocodataset.org/val2017/000000359219.jpg,['top']
+7816,A person on a motor bike on a road.,http://images.cocodataset.org/val2017/000000007816.jpg,['road']
+309452,A colorful bird sits on a tree branch.,http://images.cocodataset.org/val2017/000000309452.jpg,['tree']
+166664,A car on road passing by an elephant with mountains in background.,http://images.cocodataset.org/val2017/000000166664.jpg,"['road', 'mountain']"
+464824,A person is bending over to pick something off the ground.,http://images.cocodataset.org/val2017/000000464824.jpg,['ground']
+198960,three sheep grassing in a pasture side by side.,http://images.cocodataset.org/val2017/000000198960.jpg,['pasture']
+35770,a bathroom with three toilets and a big sink,http://images.cocodataset.org/val2017/000000035770.jpg,['bathroom']
+503855,a bunch of umbrellas it in a park area,http://images.cocodataset.org/val2017/000000503855.jpg,['park']
+503823,Those boats look like they may have been washed on shore.,http://images.cocodataset.org/val2017/000000503823.jpg,['shore']
+394611,Two giraffes browsing on a bush under a cloudy sky.,http://images.cocodataset.org/val2017/000000394611.jpg,"['cloudy', 'sky']"
+223188,"An Elvis look-alike is seated on the  back of a statue of what appears to be a bull, or water buffalo, against a backdrop of green foliage. ",http://images.cocodataset.org/val2017/000000223188.jpg,['water']
+545007,A clock with a statue of a woman on top.,http://images.cocodataset.org/val2017/000000545007.jpg,['top']
+400161,A remote control storage pouch attached to a couch.,http://images.cocodataset.org/val2017/000000400161.jpg,['storage']
+278973,a man that is on a surfboard in water,http://images.cocodataset.org/val2017/000000278973.jpg,['water']
+428562,A lot of sheep in a very small fenced in stall with hay on the floor.,http://images.cocodataset.org/val2017/000000428562.jpg,['stall']
+306893,A sidewalk under a pedestrian overpass walkway near a public transit passenger train terminal.,http://images.cocodataset.org/val2017/000000306893.jpg,"['walkway', 'terminal', 'sidewalk']"
+577864,a couple of people are kicking a ball in a field,http://images.cocodataset.org/val2017/000000577864.jpg,['field']
+361180,A brown bear is standing on the rocks facing forward.,http://images.cocodataset.org/val2017/000000361180.jpg,['rock']
+201934,A line of vehicles parked on the side of the road.,http://images.cocodataset.org/val2017/000000201934.jpg,['road']
+265816,A man in a horse drawn carriage parked in front of a stone building.,http://images.cocodataset.org/val2017/000000265816.jpg,['building']
+86483,"A sign that says ""Abbey Road NW8 City of Westminster"".",http://images.cocodataset.org/val2017/000000086483.jpg,"['city', 'road']"
+450303,Small group using laptops and headphones in a classroom.,http://images.cocodataset.org/val2017/000000450303.jpg,['classroom']
+51938,A man skiing on top of a pipe.,http://images.cocodataset.org/val2017/000000051938.jpg,['top']
+7574,A metallic refrigerator freezer sitting inside of a kitchen.,http://images.cocodataset.org/val2017/000000007574.jpg,['kitchen']
+287874,The train stopped at a train station in an urban area to pick up passengers.,http://images.cocodataset.org/val2017/000000287874.jpg,"['urban', 'station']"
+405279,People flying kites in a park next to a lake.,http://images.cocodataset.org/val2017/000000405279.jpg,"['park', 'lake']"
+182417,This is a picture of an extremely fancy desert.,http://images.cocodataset.org/val2017/000000182417.jpg,['desert']
+215259,Two women play a game in a living room.,http://images.cocodataset.org/val2017/000000215259.jpg,['room']
+424975,A building that has graffiti on it on the side and the front.,http://images.cocodataset.org/val2017/000000424975.jpg,['building']
+419601,there is a lounge chair and a black couch in this room,http://images.cocodataset.org/val2017/000000419601.jpg,['room']
+579970,Dimly lit part of a house with light entering window.,http://images.cocodataset.org/val2017/000000579970.jpg,"['house', 'part']"
+491497,"A white chair, books and shelves and a tv on in this room.",http://images.cocodataset.org/val2017/000000491497.jpg,['room']
+520009,A bus traveling down the street in front of a large building with a clock tower.,http://images.cocodataset.org/val2017/000000520009.jpg,"['street', 'tower', 'building']"
+177357,this is a man riding a board in the water,http://images.cocodataset.org/val2017/000000177357.jpg,['water']
+384670,Two people on a blue and green tennis court.,http://images.cocodataset.org/val2017/000000384670.jpg,['court']
+6213,A shower curtain sits open in an empty and clean bathroom.,http://images.cocodataset.org/val2017/000000006213.jpg,['bathroom']
+507797,Elderly women debark a bus at a station.,http://images.cocodataset.org/val2017/000000507797.jpg,['station']
+14831,A brown and white animal laying on top of a bed.,http://images.cocodataset.org/val2017/000000014831.jpg,['top']
+125936,People in a store that is selling bananas and apples.,http://images.cocodataset.org/val2017/000000125936.jpg,['store']
+328959,A bathroom decorated in black and white.,http://images.cocodataset.org/val2017/000000328959.jpg,['bathroom']
+500049,An airplane is parked on a lot near hills.,http://images.cocodataset.org/val2017/000000500049.jpg,['hill']
+149222,A computer desktop with other office supplies and papers.,http://images.cocodataset.org/val2017/000000149222.jpg,['office']
+447314,A lady and a little girl flying a kite on a grassy field.,http://images.cocodataset.org/val2017/000000447314.jpg,['field']
+136334,A person riding skis down a snow covered slope past a flag.,http://images.cocodataset.org/val2017/000000136334.jpg,"['snow', 'slope']"
+143068,Kites being used by people on a beach.,http://images.cocodataset.org/val2017/000000143068.jpg,['beach']
+336053,Two children enjoy a meal at a restaurant.,http://images.cocodataset.org/val2017/000000336053.jpg,['restaurant']
+356427,A man standing at a train station near a pile of luggage,http://images.cocodataset.org/val2017/000000356427.jpg,"['station', 'pile', 'train']"
+372317,The tour bus is parked beside the curb of a building.,http://images.cocodataset.org/val2017/000000372317.jpg,['building']
+454067,A person is playing a Wii golf game in a living room.,http://images.cocodataset.org/val2017/000000454067.jpg,['room']
+95862,A man pitching a baseball from a mound on a field.,http://images.cocodataset.org/val2017/000000095862.jpg,"['field', 'mound']"
+423617,Two city buses traveling down a rain covered road way.,http://images.cocodataset.org/val2017/000000423617.jpg,"['road', 'city', 'rain']"
+307598,A green and yellow train is driving on the track.,http://images.cocodataset.org/val2017/000000307598.jpg,['track']
+17714,Food on a train with a pie and some vegetable,http://images.cocodataset.org/val2017/000000017714.jpg,['train']
+171298,The reflection of a large metal structure in the windshield of a bus,http://images.cocodataset.org/val2017/000000171298.jpg,['structure']
+483667,A very sharp dressed man with a black top hat.,http://images.cocodataset.org/val2017/000000483667.jpg,['top']
+557884,The large glass plant vase is installed into the wall.,http://images.cocodataset.org/val2017/000000557884.jpg,['wall']
+463522,A couple of brown horses walking down a street next to buildings.,http://images.cocodataset.org/val2017/000000463522.jpg,"['street', 'building']"
+361147,a tennis player on a court with a racket,http://images.cocodataset.org/val2017/000000361147.jpg,['court']
+503755,a person on a tennis court in tennis wear,http://images.cocodataset.org/val2017/000000503755.jpg,['court']
+378673,"A person at a skateboard park, jumping his skateboard.",http://images.cocodataset.org/val2017/000000378673.jpg,['park']
+329219,A man standing next to a dog on the ground.,http://images.cocodataset.org/val2017/000000329219.jpg,['ground']
+308193,A grey clock tower above building with sky in the background.,http://images.cocodataset.org/val2017/000000308193.jpg,"['building', 'sky', 'tower']"
+280325,A parking meter in front of a wall that has been written on.,http://images.cocodataset.org/val2017/000000280325.jpg,"['parking', 'wall']"
+98520,An airplane makes its way down a snowy runway.,http://images.cocodataset.org/val2017/000000098520.jpg,['runway']
+125072,Cows graze an open field next to the ocean.,http://images.cocodataset.org/val2017/000000125072.jpg,"['field', 'ocean']"
+578922,A vase of red flowers sits on a bathroom countertop.,http://images.cocodataset.org/val2017/000000578922.jpg,['bathroom']
+460347,City bus next to traffic cones in the far right lane of a busy freeway.,http://images.cocodataset.org/val2017/000000460347.jpg,['city']
+483531,Two twin beds in a room with a picture of flowers above it.,http://images.cocodataset.org/val2017/000000483531.jpg,['room']
+73153,a person standing in a forest using a cell phone.,http://images.cocodataset.org/val2017/000000073153.jpg,['forest']
+565045,Two towels are hanging on the wall beside a shower door.,http://images.cocodataset.org/val2017/000000565045.jpg,['wall']
+147205,Arrangement of food with variety of meat and potatoes in upscale fashion.,http://images.cocodataset.org/val2017/000000147205.jpg,['arrangement']
+405195,Three shelves of assorted donuts in a bakery.,http://images.cocodataset.org/val2017/000000405195.jpg,['bakery']
+319721,a person standing next to a horse next to a building,http://images.cocodataset.org/val2017/000000319721.jpg,['building']
+5586,a tennis player with a racket on a court,http://images.cocodataset.org/val2017/000000005586.jpg,['court']
+304291,A horse walking in a field with trees in the background.,http://images.cocodataset.org/val2017/000000304291.jpg,"['field', 'tree']"
+384666,A number of people skiing down ski slopes,http://images.cocodataset.org/val2017/000000384666.jpg,['slope']
+86582,A laptop computer sitting on top of a desk.,http://images.cocodataset.org/val2017/000000086582.jpg,['top']
+474164,A dog sits on top of a truck.,http://images.cocodataset.org/val2017/000000474164.jpg,['top']
+379453,An Air Force jet flying in a deep blue sky.,http://images.cocodataset.org/val2017/000000379453.jpg,['sky']
+233139,Two clocks are hung on a wall behind a glass sign.,http://images.cocodataset.org/val2017/000000233139.jpg,['wall']
+191672,A man is riding a wave as he surfs in the ocean.,http://images.cocodataset.org/val2017/000000191672.jpg,['ocean']
+219271,Large group of people surrounding a truck on a mountain.,http://images.cocodataset.org/val2017/000000219271.jpg,['mountain']
+27768,A bus which is part of the Metropolitan Transit System.,http://images.cocodataset.org/val2017/000000027768.jpg,['part']
+108503,Two people holding surfboards walk down a beach.,http://images.cocodataset.org/val2017/000000108503.jpg,['beach']
+135673,Two planes are close together in the sky.,http://images.cocodataset.org/val2017/000000135673.jpg,['sky']
+294350,A man preparing food in a restaurant kitchen.,http://images.cocodataset.org/val2017/000000294350.jpg,"['kitchen', 'restaurant']"
+322724,a man that is skiing down a snowy field,http://images.cocodataset.org/val2017/000000322724.jpg,['field']
+4495,a room with a tv and some different types of couches,http://images.cocodataset.org/val2017/000000004495.jpg,['room']
+294695,People on a beach with a colored windsock and American flag colored windsocks.,http://images.cocodataset.org/val2017/000000294695.jpg,['beach']
+286994,A elephant drinks from a stream with several other elephants walking in the background.,http://images.cocodataset.org/val2017/000000286994.jpg,['stream']
+340272,Three sheep eating grass near a water source.,http://images.cocodataset.org/val2017/000000340272.jpg,"['water', 'grass']"
+512476,A bow of food set next to a sink inside of a kitchen,http://images.cocodataset.org/val2017/000000512476.jpg,['kitchen']
+12670,A large group of people on a city street.,http://images.cocodataset.org/val2017/000000012670.jpg,"['street', 'city']"
+233033,an image of patio with umbrella outside on deck,http://images.cocodataset.org/val2017/000000233033.jpg,['outside']
+125952,A carry on rolling luggage with stuff bursting out the top.,http://images.cocodataset.org/val2017/000000125952.jpg,['top']
+189213,A pile of discarded household appliances and furniture sit on a street corner.,http://images.cocodataset.org/val2017/000000189213.jpg,"['street', 'pile']"
+108440,A train on top of an overpass bridge set of train tracks with fields on both side.,http://images.cocodataset.org/val2017/000000108440.jpg,"['field', 'track', 'bridge', 'top']"
+387387,A yellow bus that is sitting in the grass.,http://images.cocodataset.org/val2017/000000387387.jpg,['grass']
+313588,A smiling woman stands outside of a brick building in the rain while holding an umbrella.,http://images.cocodataset.org/val2017/000000313588.jpg,"['building', 'rain']"
+208901,A large passenger jet flying through a gray sky.,http://images.cocodataset.org/val2017/000000208901.jpg,['sky']
+32081,A woman holding a tennis racquet on a tennis court.,http://images.cocodataset.org/val2017/000000032081.jpg,['court']
+408774,Athletes during game on ball field on cloudy day.,http://images.cocodataset.org/val2017/000000408774.jpg,"['field', 'cloudy']"
+450399,Several people are working behind the counter of a bakery.,http://images.cocodataset.org/val2017/000000450399.jpg,['bakery']
+450439,"Two red, white and blue kites flying in the sky.",http://images.cocodataset.org/val2017/000000450439.jpg,['sky']
+489339,A woman walking on the beach holding a surfboard.,http://images.cocodataset.org/val2017/000000489339.jpg,['beach']
+350405,A man snow boarding in the snow on a slope.,http://images.cocodataset.org/val2017/000000350405.jpg,"['snow', 'slope']"
+42628,Many persons are busy in clearing the snow.,http://images.cocodataset.org/val2017/000000042628.jpg,['snow']
+376278,A picture of an animal on the ground.,http://images.cocodataset.org/val2017/000000376278.jpg,['ground']
+216497,In an unfinished room a counter sits with three chairs while a stove and cabinets sit in the distance.,http://images.cocodataset.org/val2017/000000216497.jpg,"['room', 'cabinet']"
+189451,A part of a cake on a plate with a knife and cake server next to it.,http://images.cocodataset.org/val2017/000000189451.jpg,['part']
+570756,an image of a group of people that are walking on beach,http://images.cocodataset.org/val2017/000000570756.jpg,['beach']
+95899,A stop sign sits below a construction site.,http://images.cocodataset.org/val2017/000000095899.jpg,['construction']
+397639,A ewe and her kid in a field.,http://images.cocodataset.org/val2017/000000397639.jpg,['field']
+356612,Several black bulls are walking down the street.,http://images.cocodataset.org/val2017/000000356612.jpg,['street']
+267940,The ship is moored in the lake.,http://images.cocodataset.org/val2017/000000267940.jpg,"['lake', 'ship']"
+571313,The working and kitchen area of a dorm room,http://images.cocodataset.org/val2017/000000571313.jpg,['room']
+229747,a large plane is flying in the sky,http://images.cocodataset.org/val2017/000000229747.jpg,['sky']
+10363,Grey color cat standing on hood of car in garage,http://images.cocodataset.org/val2017/000000010363.jpg,['garage']
+517069,Two women waiting at a bench next to a street.,http://images.cocodataset.org/val2017/000000517069.jpg,['street']
+269314,A cat sitting on top of a banana tree.,http://images.cocodataset.org/val2017/000000269314.jpg,"['top', 'tree']"
+33707,Two large giraffes inside a fenced area stand together near many rocks,http://images.cocodataset.org/val2017/000000033707.jpg,['rock']
+368335,A horse walks between cars in a parking lot.,http://images.cocodataset.org/val2017/000000368335.jpg,['parking']
+449661,A lady laying in a bed in a room full of stuff.,http://images.cocodataset.org/val2017/000000449661.jpg,['room']
+245915,A herd of elephants splashing and playing in a river.,http://images.cocodataset.org/val2017/000000245915.jpg,['river']
+388215,A young black male serving a tennis ball on a tennis court,http://images.cocodataset.org/val2017/000000388215.jpg,['court']
+429718,A black and green train locomotive engine traveling along a railroad track.,http://images.cocodataset.org/val2017/000000429718.jpg,"['track', 'railroad']"
+323709,An airplane is parked next to a domed tower.,http://images.cocodataset.org/val2017/000000323709.jpg,['tower']
+363072,a white train is coming down some metal tracks,http://images.cocodataset.org/val2017/000000363072.jpg,['track']
+239041,A television is reflected from a bathroom mirror.,http://images.cocodataset.org/val2017/000000239041.jpg,['bathroom']
+17182,"A classroom with a chalkboard, desk, and books.",http://images.cocodataset.org/val2017/000000017182.jpg,['classroom']
+457559,THERE ARE PEOPLE RUNNING IN THE GRASS PLAYING SOCCER,http://images.cocodataset.org/val2017/000000457559.jpg,['grass']
+229659,Someone is online inside the slightly crowded restaurant.,http://images.cocodataset.org/val2017/000000229659.jpg,['restaurant']
+511647,A man flying a kite above a tall building in a cloudy blue sky.,http://images.cocodataset.org/val2017/000000511647.jpg,"['cloudy', 'building', 'sky']"
+311883,A train moving along a track during the day.,http://images.cocodataset.org/val2017/000000311883.jpg,['track']
+545007,a statue is standing on top of a clock on a pole,http://images.cocodataset.org/val2017/000000545007.jpg,['top']
+127955,Two large bears fighting or playing in water.,http://images.cocodataset.org/val2017/000000127955.jpg,['water']
+442323,A hotel room with television and desk in the corner.,http://images.cocodataset.org/val2017/000000442323.jpg,"['room', 'hotel']"
+55299,A bird is perched on a large rock near the shore.,http://images.cocodataset.org/val2017/000000055299.jpg,"['shore', 'rock']"
+442993,A row of attached buildings situated by a river.,http://images.cocodataset.org/val2017/000000442993.jpg,"['building', 'river']"
+179174,A large stack of trunks and luggage on a sidewalk with people behind it.,http://images.cocodataset.org/val2017/000000179174.jpg,['sidewalk']
+353518,Several wooden boats docked on the ocean beach.,http://images.cocodataset.org/val2017/000000353518.jpg,"['beach', 'ocean']"
+208901,An airplane flying high in the sky on a partly cloudy day.,http://images.cocodataset.org/val2017/000000208901.jpg,['sky']
+19042,A bird that is standing on a rock in the water.,http://images.cocodataset.org/val2017/000000019042.jpg,"['water', 'rock']"
+187362,A man and his surfboard survey a stormy sea,http://images.cocodataset.org/val2017/000000187362.jpg,['sea']
+228144,Three chairs sitting in a room near a mirror.,http://images.cocodataset.org/val2017/000000228144.jpg,['room']
+82986,Two men watch another throw a Frisbee in a field.,http://images.cocodataset.org/val2017/000000082986.jpg,['field']
+233727,a bus that is parked outside of some buildings,http://images.cocodataset.org/val2017/000000233727.jpg,['building']
+16502,A sheep is standing on top of a large rock.,http://images.cocodataset.org/val2017/000000016502.jpg,"['top', 'rock']"
+453722,A living room with a fireplace and glass slider doors.,http://images.cocodataset.org/val2017/000000453722.jpg,['room']
+119233,A black-spotted cat lying on top of a laptop.,http://images.cocodataset.org/val2017/000000119233.jpg,['top']
+571264,A man stands by a motorcycle on the side of the road.,http://images.cocodataset.org/val2017/000000571264.jpg,['road']
+384616,A red fire hydrant in a forest setting.,http://images.cocodataset.org/val2017/000000384616.jpg,['forest']
+553776,A man rides a yellow motorcycle down a street.,http://images.cocodataset.org/val2017/000000553776.jpg,['street']
+540928,"There is a room with distinctive things in the picture. 
+",http://images.cocodataset.org/val2017/000000540928.jpg,['room']
+142324,A group of people riding motorcycles and bikes down a city street.,http://images.cocodataset.org/val2017/000000142324.jpg,"['street', 'city']"
+431848,a man skating on a drying ground with his hands up,http://images.cocodataset.org/val2017/000000431848.jpg,['ground']
+134034,Two horses grazing in a fenced in field.,http://images.cocodataset.org/val2017/000000134034.jpg,['field']
+133819,A blue bus makes its way down a narrow city street.,http://images.cocodataset.org/val2017/000000133819.jpg,"['street', 'city']"
+435081,A collage displays colorful deserts and fresh vegetables.,http://images.cocodataset.org/val2017/000000435081.jpg,['desert']
+167067,A man is posing for a camera in a room.,http://images.cocodataset.org/val2017/000000167067.jpg,['room']
+321557,Large black motorcycle sitting next to a white building.,http://images.cocodataset.org/val2017/000000321557.jpg,['building']
+170116,a list on a wall near other pieces of paper,http://images.cocodataset.org/val2017/000000170116.jpg,['wall']
+76625,A blue and yellow train passing by people and building.,http://images.cocodataset.org/val2017/000000076625.jpg,['building']
+201418,A person waits for their luggage at an airport,http://images.cocodataset.org/val2017/000000201418.jpg,['airport']
+37988,A female tennis player on the court serving a ball.,http://images.cocodataset.org/val2017/000000037988.jpg,['court']
+11122,A gated grassy noel has a shorted stop sign stuck in part of the land.,http://images.cocodataset.org/val2017/000000011122.jpg,"['part', 'grassy']"
+516318,A man that is on a surfboard in the water.,http://images.cocodataset.org/val2017/000000516318.jpg,['water']
+92177,a birthday cake decorated to look like an island with surfboards,http://images.cocodataset.org/val2017/000000092177.jpg,['island']
+64495,A road sign sitting in front so a billboard.,http://images.cocodataset.org/val2017/000000064495.jpg,['road']
+463542,A lot of people skiing down a ski slope.,http://images.cocodataset.org/val2017/000000463542.jpg,['slope']
+299609,A horse in a grassy field set against a foggy mountain range.,http://images.cocodataset.org/val2017/000000299609.jpg,"['field', 'mountain']"
+189226,A fire hydrant outside a shop with graffiti.,http://images.cocodataset.org/val2017/000000189226.jpg,['shop']
+289516,A clock that is surrounded by tall grass in a park.,http://images.cocodataset.org/val2017/000000289516.jpg,"['park', 'grass']"
+454978,A motorcycle sitting in front of a Speed Limit sign with a curvy road drawing.,http://images.cocodataset.org/val2017/000000454978.jpg,['road']
+459500,A clock sitting on a post above the statues of two birds.,http://images.cocodataset.org/val2017/000000459500.jpg,['post']
+376625,The trolley car runs up and down the street on train rails.,http://images.cocodataset.org/val2017/000000376625.jpg,['street']
+193429,A male snowboarder sits with his board on a snowy hill.,http://images.cocodataset.org/val2017/000000193429.jpg,['hill']
+314034,A herd of cattle is feeding at the river's edge.,http://images.cocodataset.org/val2017/000000314034.jpg,['river']
+219271,A crowd of people walking along a snow covered mountain side.,http://images.cocodataset.org/val2017/000000219271.jpg,"['snow', 'mountain']"
+460147,Cars are in a traffic jam on the highway in the city center.,http://images.cocodataset.org/val2017/000000460147.jpg,"['highway', 'city']"
+93154,A rode that has car and bicycle lane that cars are driving on the left side of the road,http://images.cocodataset.org/val2017/000000093154.jpg,['road']
+140420,A motorcycle is parked on a tree lined dirt road.,http://images.cocodataset.org/val2017/000000140420.jpg,"['road', 'tree']"
+506004,A Ferris wheel that is next to a body of water.,http://images.cocodataset.org/val2017/000000506004.jpg,['water']
+60899,a toddler playing with a hairbrush in a living room,http://images.cocodataset.org/val2017/000000060899.jpg,['room']
+414340,A large clock tower next to a small white church.,http://images.cocodataset.org/val2017/000000414340.jpg,"['church', 'tower']"
+95862,some baseball players are playing baseball on a field,http://images.cocodataset.org/val2017/000000095862.jpg,['field']
+70254,a train pulling up to station people waiting,http://images.cocodataset.org/val2017/000000070254.jpg,['station']
+370042,A pile of clay and gold vases sitting in a yard.,http://images.cocodataset.org/val2017/000000370042.jpg,"['yard', 'pile']"
+98716,A man is sitting in a bench overlooking a lake.,http://images.cocodataset.org/val2017/000000098716.jpg,['lake']
+522889,Female tennis player in full run on a blue court to complete a backhand return.,http://images.cocodataset.org/val2017/000000522889.jpg,['court']
+256916,Several square pizzas are sitting on round plates.,http://images.cocodataset.org/val2017/000000256916.jpg,['square']
+261888,A bicyclist waiting in the roadway until two horses pass.,http://images.cocodataset.org/val2017/000000261888.jpg,['roadway']
+30675,A long orange train traveling along a tree filled forest.,http://images.cocodataset.org/val2017/000000030675.jpg,['tree']
+155451,A street scene photo taken under an overpass with a traffic light.,http://images.cocodataset.org/val2017/000000155451.jpg,['street']
+270122,Waves crashing on the shore with a surfer in the midst,http://images.cocodataset.org/val2017/000000270122.jpg,['shore']
+242724,Two very sexy women in bikinis riding horses in the ocean.,http://images.cocodataset.org/val2017/000000242724.jpg,['ocean']
+2006,A city bus drives through a city area.,http://images.cocodataset.org/val2017/000000002006.jpg,['city']
+166391,A traffic light and intersection with cars traveling in both directions on the street.,http://images.cocodataset.org/val2017/000000166391.jpg,"['street', 'intersection']"
+79837,The night moon illuminates the ships in the harbor.,http://images.cocodataset.org/val2017/000000079837.jpg,"['moon', 'harbor', 'ship', 'night']"
+185473,"Horses lined up on a grassy field, some with riders. ",http://images.cocodataset.org/val2017/000000185473.jpg,['field']
+435081,a collection of various food pictures mostly of desert type items,http://images.cocodataset.org/val2017/000000435081.jpg,['desert']
+532855,A young man doing an axle grind on a piece of pipe in a park.,http://images.cocodataset.org/val2017/000000532855.jpg,['park']
+352582,A man throwing a white frisbee in a tree covered park.,http://images.cocodataset.org/val2017/000000352582.jpg,"['park', 'tree']"
+512836,A woman is walking two dogs in the snow.,http://images.cocodataset.org/val2017/000000512836.jpg,['snow']
+404678,A family sits around a wooden table talking and eating in a restaurant.,http://images.cocodataset.org/val2017/000000404678.jpg,['restaurant']
+278973,a man on a surfboard in the water at the beach,http://images.cocodataset.org/val2017/000000278973.jpg,"['beach', 'water']"
+157807,a grey striped cat sitting on top of a toilet,http://images.cocodataset.org/val2017/000000157807.jpg,['top']
+108503,two surfers walking along the ocean beach in the sand,http://images.cocodataset.org/val2017/000000108503.jpg,['beach']
+263068,a person riding a skate board at a skate park,http://images.cocodataset.org/val2017/000000263068.jpg,['park']
+155443,A train is shown on the train tracks.,http://images.cocodataset.org/val2017/000000155443.jpg,['track']
+367386,a living room with some tables and couches,http://images.cocodataset.org/val2017/000000367386.jpg,['room']
+151629,A man holding a tennis racquet on a court.,http://images.cocodataset.org/val2017/000000151629.jpg,['court']
+540932,Two people standing on a beach next to the ocean.,http://images.cocodataset.org/val2017/000000540932.jpg,"['beach', 'ocean']"
+384651,"A darkly lit hotel bedroom that has a lamp, a little table, and a bed.",http://images.cocodataset.org/val2017/000000384651.jpg,['hotel']
+117492,"Parents and children, some with toys, in a park walking in line. ",http://images.cocodataset.org/val2017/000000117492.jpg,['park']
+468505,A man is surrounded by fast food at a restaurant booth.,http://images.cocodataset.org/val2017/000000468505.jpg,['restaurant']
+532761,"A room with a television, a sofa, and a seat.",http://images.cocodataset.org/val2017/000000532761.jpg,['room']
+545007,A statue holding a lamp on top of a clock.,http://images.cocodataset.org/val2017/000000545007.jpg,['top']
+575372,A street light with a mountain view in the background,http://images.cocodataset.org/val2017/000000575372.jpg,"['street', 'mountain']"
+207728,Two white goats standing near some melting snow.,http://images.cocodataset.org/val2017/000000207728.jpg,['snow']
+7888,Four sided clock up on a black post.,http://images.cocodataset.org/val2017/000000007888.jpg,['post']
+395633,A large red ship sails on the sea near the city.,http://images.cocodataset.org/val2017/000000395633.jpg,"['ship', 'sea', 'city']"
+12670,A group of men and women gathered together outside.,http://images.cocodataset.org/val2017/000000012670.jpg,['outside']
+303305,there is a white and a red bus that is stopped on this street,http://images.cocodataset.org/val2017/000000303305.jpg,['street']
+576052,A person is riding a horse by the water,http://images.cocodataset.org/val2017/000000576052.jpg,['water']
+66135,A train comes to a stop on the tracks next to the sidewalk.,http://images.cocodataset.org/val2017/000000066135.jpg,"['track', 'sidewalk']"
+222094,a stop sighn in a grass feild next to a road.,http://images.cocodataset.org/val2017/000000222094.jpg,"['road', 'grass']"
+506310,A room with an open refrigerator and shelves with jars on it.,http://images.cocodataset.org/val2017/000000506310.jpg,['room']
+183675,"Cowboy riding a horse in a huge pasture..
+",http://images.cocodataset.org/val2017/000000183675.jpg,['pasture']
+513181,A ship sitting at port on the water front.,http://images.cocodataset.org/val2017/000000513181.jpg,"['water', 'ship']"
+379441,A living room filled with furniture and a book shelf filled with books.,http://images.cocodataset.org/val2017/000000379441.jpg,['room']
+545407,A side view of a plane flying in the clear blue sky,http://images.cocodataset.org/val2017/000000545407.jpg,['sky']
+226984,A kitchen filled with appliances and wooden cabinets.,http://images.cocodataset.org/val2017/000000226984.jpg,"['kitchen', 'cabinet']"
+153011,A couple of food trucks parked in a parking lot.,http://images.cocodataset.org/val2017/000000153011.jpg,['parking']
+438907,A skateboarder attempts a trick above ground while his friend watches.,http://images.cocodataset.org/val2017/000000438907.jpg,['ground']
+490171,A man and a dog riding a surf board in the water .,http://images.cocodataset.org/val2017/000000490171.jpg,['water']
+102411,Two people sitting on a motorcycle in the street next to a beach.,http://images.cocodataset.org/val2017/000000102411.jpg,"['beach', 'street']"
+106881,A bird sits on a branch of a tree.,http://images.cocodataset.org/val2017/000000106881.jpg,['tree']
+458325,A man riding a skateboard down a street next to parked cars.,http://images.cocodataset.org/val2017/000000458325.jpg,['street']
+361103,a street corner with a traffic light  in front of a Carphone Warehouse store with lots of people on the sidewalk,http://images.cocodataset.org/val2017/000000361103.jpg,"['store', 'street', 'sidewalk']"
+88485,A boy is throwing a frisbee outside a building.,http://images.cocodataset.org/val2017/000000088485.jpg,['building']
+178982,there are two people on motorcycles approaching a tunnel,http://images.cocodataset.org/val2017/000000178982.jpg,['tunnel']
+532481,A guy is waterboarding in the ocean on a windy day.,http://images.cocodataset.org/val2017/000000532481.jpg,['ocean']
+73153,The tree bark in the foreground is clear while the person in the background is blurry.,http://images.cocodataset.org/val2017/000000073153.jpg,"['foreground', 'tree']"
+25560,A cat climbing on top of a shelf with a tv,http://images.cocodataset.org/val2017/000000025560.jpg,['top']
+419653,Covered food is sitting on a kitchen counter.,http://images.cocodataset.org/val2017/000000419653.jpg,['kitchen']
+469174,A plane flying low with an American flag flying in the foreground.,http://images.cocodataset.org/val2017/000000469174.jpg,['foreground']
+546964,A room filled with furniture and very large rugs.,http://images.cocodataset.org/val2017/000000546964.jpg,['room']
+23751,A statue of a boy and a girl flying a kite in front of a building.,http://images.cocodataset.org/val2017/000000023751.jpg,['building']
+537153,Two people sitting on a bench overlooking a body of water.,http://images.cocodataset.org/val2017/000000537153.jpg,['water']
+286849,A group of three giraffe standing next to each other behind a rock.,http://images.cocodataset.org/val2017/000000286849.jpg,['rock']
+178982,A pair of motorcyclists drive down a highway at night.,http://images.cocodataset.org/val2017/000000178982.jpg,"['highway', 'night']"
+125072,Several cows graze on the shore of the lake.,http://images.cocodataset.org/val2017/000000125072.jpg,"['shore', 'lake']"
+109976,An all white kitchen with an electric stovetop.,http://images.cocodataset.org/val2017/000000109976.jpg,['kitchen']
+512836,A woman is walking her dogs  on the city sidewalks through the newly fallen snow.,http://images.cocodataset.org/val2017/000000512836.jpg,"['snow', 'city', 'sidewalk']"
+145597,A bunch of girls sit on the grass with several things on a blanket.,http://images.cocodataset.org/val2017/000000145597.jpg,['grass']
+459634,Two motorcyclists drive along the highway next to the green mountains.,http://images.cocodataset.org/val2017/000000459634.jpg,"['highway', 'mountain']"
+438862,Several men are playing soccer on a field.,http://images.cocodataset.org/val2017/000000438862.jpg,['field']
+206027,A slice of pizza that is on top of a napkin.,http://images.cocodataset.org/val2017/000000206027.jpg,['top']
+84492,A man is riding a skateboard in an urban area.,http://images.cocodataset.org/val2017/000000084492.jpg,['urban']
+86220,A white car and a white bus parked parallel from one another.,http://images.cocodataset.org/val2017/000000086220.jpg,['bus']
+232348,A streamlined modern toaster on a kitchen counter top.,http://images.cocodataset.org/val2017/000000232348.jpg,"['kitchen', 'top']"
+231822,Two sandwiches and macaroni and cheese and desert on a cafeteria tray.,http://images.cocodataset.org/val2017/000000231822.jpg,['desert']
+15956,A woman and a horse in a barn with dirt floor.,http://images.cocodataset.org/val2017/000000015956.jpg,['barn']
+243344,A cat sitting on top of a metallic refrigerator freezer.,http://images.cocodataset.org/val2017/000000243344.jpg,['top']
+49259,A man who is sitting down next to a body of water.,http://images.cocodataset.org/val2017/000000049259.jpg,['water']
+319369,Beach goers set up umbrellas next to rental signs while a cop watches.,http://images.cocodataset.org/val2017/000000319369.jpg,['beach']
+184338,A truck with a barn on its bed painted in various colors.,http://images.cocodataset.org/val2017/000000184338.jpg,['barn']
+309655,A woman on skis in front of people on a slope.,http://images.cocodataset.org/val2017/000000309655.jpg,['slope']
+370711,a picture looking in to an umbrella shop,http://images.cocodataset.org/val2017/000000370711.jpg,['shop']
+450100,A cupcake has pink icing and a star on top.,http://images.cocodataset.org/val2017/000000450100.jpg,"['star', 'top']"
+349678,"The clock tower that has a sign saying ""Go By Train"" is surrounded by greenery.",http://images.cocodataset.org/val2017/000000349678.jpg,"['tower', 'train']"
+411530,Skiers wait to take a lift up a snowy hill.,http://images.cocodataset.org/val2017/000000411530.jpg,['hill']
+156372,A ship in the sea on which a chair and carry bags are kept.,http://images.cocodataset.org/val2017/000000156372.jpg,"['ship', 'sea']"
+283717,THERE IS A MICROWAVE  THAT IS ON THE DESK TOP,http://images.cocodataset.org/val2017/000000283717.jpg,['top']
+31296,a large group of people are sharing a meal at a restaurant,http://images.cocodataset.org/val2017/000000031296.jpg,['restaurant']
+88345,A woman standing in front of a fiber optic tree.,http://images.cocodataset.org/val2017/000000088345.jpg,['tree']
+206838,Two bikini clad women riding horses in an ocean,http://images.cocodataset.org/val2017/000000206838.jpg,['ocean']
+275791,Covered boats are in the water by the shore.,http://images.cocodataset.org/val2017/000000275791.jpg,"['shore', 'water']"
+131379,The top of a pie looks all crusty and good.,http://images.cocodataset.org/val2017/000000131379.jpg,['top']
+329323,a group of people are all gathered together outside,http://images.cocodataset.org/val2017/000000329323.jpg,['outside']
+377000,A cat sitting in a window watching the rain drip on the window glass.,http://images.cocodataset.org/val2017/000000377000.jpg,['rain']
+568584,A ghostly image of a man sitting on a couch in a living room.,http://images.cocodataset.org/val2017/000000568584.jpg,['room']
+127182,This is a black and white photo of a white kitchen.,http://images.cocodataset.org/val2017/000000127182.jpg,['kitchen']
+127624,View of a highway near a city at sunset,http://images.cocodataset.org/val2017/000000127624.jpg,"['sunset', 'highway', 'city']"
+502347,A dock that is separating the harbor from the ocean.,http://images.cocodataset.org/val2017/000000502347.jpg,"['dock', 'harbor', 'ocean']"
+30828,The person is sleeping on a park bench.,http://images.cocodataset.org/val2017/000000030828.jpg,['park']
+391375,A woman in black sits on a park bench.,http://images.cocodataset.org/val2017/000000391375.jpg,['park']
+336309,A airplane is flying through a cloudy blue sky.,http://images.cocodataset.org/val2017/000000336309.jpg,"['cloudy', 'sky']"
+131556,A man riding skis on top of a ramp.,http://images.cocodataset.org/val2017/000000131556.jpg,['top']
+20247,Bears lope over the ground in a dry landscape.,http://images.cocodataset.org/val2017/000000020247.jpg,['ground']
+185292,A man riding a wave on top of a surfboard.,http://images.cocodataset.org/val2017/000000185292.jpg,['top']
+394275,a green bus is out on the road,http://images.cocodataset.org/val2017/000000394275.jpg,['road']
+214539,A man kicking a soccer ball on the field.,http://images.cocodataset.org/val2017/000000214539.jpg,['field']
+509735,A group of giraffes drink water in the wilderness.,http://images.cocodataset.org/val2017/000000509735.jpg,['water']
+281447,a brown horse in the field gazing around,http://images.cocodataset.org/val2017/000000281447.jpg,['field']
+76625,A blue train traveling past a train station next to a lush green mountain.,http://images.cocodataset.org/val2017/000000076625.jpg,"['station', 'mountain']"
+119828,A cat sitting on top of a wooden desk.,http://images.cocodataset.org/val2017/000000119828.jpg,['top']
+313588,A woman stands on a cobblestone walkway carrying an umbrella.,http://images.cocodataset.org/val2017/000000313588.jpg,['walkway']
+203546,The bear is inside of the river stream.,http://images.cocodataset.org/val2017/000000203546.jpg,"['stream', 'river']"
+382743,A few kites flying in the blue sky,http://images.cocodataset.org/val2017/000000382743.jpg,['sky']
+545958,A cow stands if front of a white wall.,http://images.cocodataset.org/val2017/000000545958.jpg,['wall']
+227399,A truck made to look like a train parked on the side of the road.,http://images.cocodataset.org/val2017/000000227399.jpg,['road']
+374083,A man and a girl standing next to two cakes in the kitchen.,http://images.cocodataset.org/val2017/000000374083.jpg,['kitchen']
+60347,A man sitting on the park bench in the forest,http://images.cocodataset.org/val2017/000000060347.jpg,"['forest', 'park']"
+303893,Two kids witting on a sidewalk having a snack.,http://images.cocodataset.org/val2017/000000303893.jpg,['sidewalk']
+484029,A street signs is on top of the stop sign,http://images.cocodataset.org/val2017/000000484029.jpg,"['top', 'street']"
+322895,A room with a full wall of windows with multiple sofas and chairs.,http://images.cocodataset.org/val2017/000000322895.jpg,"['room', 'wall']"
+195045,An empty field with older structure in the background.,http://images.cocodataset.org/val2017/000000195045.jpg,"['field', 'structure']"
+477623,A locomotive train that has train cars attached and parked on a set of train tracks.,http://images.cocodataset.org/val2017/000000477623.jpg,['track']
+557884,A plant is in a vase of water mounted to the wall.,http://images.cocodataset.org/val2017/000000557884.jpg,"['wall', 'water']"
+74058,Black and white photo bicycle with sidewalk and umbrellas,http://images.cocodataset.org/val2017/000000074058.jpg,['sidewalk']
+349302,2 giraffes standing under a tree in the shade,http://images.cocodataset.org/val2017/000000349302.jpg,['tree']
+143068,A kite that someone is flying over a beach.,http://images.cocodataset.org/val2017/000000143068.jpg,['beach']

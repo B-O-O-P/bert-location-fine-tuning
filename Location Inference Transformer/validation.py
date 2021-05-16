@@ -8,8 +8,6 @@ import numpy as np
 from string import punctuation
 from datetime import datetime
 from torch.utils.data import TensorDataset, random_split, DataLoader, RandomSampler
-from torch.nn import functional as F
-from torch import optim as optim
 from transformers import BertTokenizer
 
 from embedding.embedding import vocabulary_from_texts, VocabularyEmbedding
@@ -18,7 +16,7 @@ from model import BERT
 # Logging
 
 LOG_DIRECTORY = 'logs'
-LOG_FILENAME = 'training-log.txt'
+LOG_FILENAME = 'validation-log.txt'
 
 if not os.path.exists(LOG_DIRECTORY):
     os.makedirs(LOG_DIRECTORY)
@@ -32,10 +30,10 @@ logging.info('Start time: {}\n'.format(datetime.now()))
 
 logging.info('{} Preparing data {}'.format(5 * '=', 5 * '='))
 
-data = pd.read_csv('data/COCO-locations-negative-sampling.csv')
+data = pd.read_csv('data/COCO-locations-validation-filtered-negative-sampling.csv')
 
 un_texts = list(data['cap'])
-un_backgrounds = list(data['background'])
+un_backgrounds = list(data['location'])
 un_labels = list(data['binary'])
 
 # Prepare data
@@ -96,10 +94,6 @@ logging.info('Labels tokenized\n')
 batch_size = 32
 N = len(texts)
 
-train_size = int(N * 0.8)
-val_size = int(N * 0.1)
-test_size = (N - train_size - val_size)
-
 dataset = TensorDataset(input_ids, attention_masks, backgrounds, labels)
 
 logging.info('Dataset created')
@@ -107,11 +101,9 @@ logging.info('Dataset length: {}'.format(len(dataset)))
 
 # Get Dataloader
 
-train_data, val_data, test_data = random_split(dataset, [train_size, val_size, test_size])
+val_data = dataset
 
-train_dataloader = DataLoader(train_data, sampler=RandomSampler(train_data), batch_size=batch_size)
 val_dataloader = DataLoader(val_data, sampler=RandomSampler(val_data), batch_size=batch_size)
-test_dataloader = DataLoader(test_data, sampler=RandomSampler(test_data), batch_size=batch_size)
 
 logging.info('\nDataloader created.\n')
 
@@ -125,8 +117,7 @@ logging.info('BERT for prediction initialized\n')
 
 # Select device
 
-logging.info('{} Training {}'.format(5 * '=', 5 * '='))
-
+logging.info('{} Validation {}'.format(5 * '=', 5 * '='))
 
 if torch.cuda.is_available():
     device = torch.device("cuda")
@@ -138,17 +129,11 @@ else:
 
 # Training params
 
-epochs = 10
 log_steps = 100
 sum_loss = 0
 
-logging.info('Training params:')
-logging.info('  Batch size: {}'.format(batch_size))
-logging.info('  Number of epochs: {}\n'.format(epochs))
-
-# Select optimizer
-
-optimizer = optim.Adam(model.parameters(), lr=2e-5, eps=1e-8)
+logging.info('Validation params:')
+logging.info('  Batch size: {}\n'.format(batch_size))
 
 # Checkpoint prepare
 
@@ -159,39 +144,59 @@ if not os.path.exists(CHECKPOINT_DIRECTORY):
 
 logging.info('Directory for checkpoints ready\n')
 
-# Training
+# Parameters
 
-logging.info('Start training...')
+epoch = 0
+each_epoch_checkpoint = 10
+total_epochs = 50
 
-model.train()
+while epoch < total_epochs:
+    # Load model state
 
-for epoch in range(1, epochs + 1):
-    logging.info('{} EPOCH {} data {}'.format(3 * '=', epoch, 3 * '='))
-    for step, batch in enumerate(train_dataloader):
+    CHECKPOINT_FILENAME = 'bert-location-inference-transformer-epoch-{}.pt'.format(epoch)
+    checkpoint_path = '{}/{}'.format(CHECKPOINT_DIRECTORY, CHECKPOINT_FILENAME)
+
+    model.load_state_dict(torch.load(checkpoint_path))
+
+    logging.info('Model loaded from file: {}'.format(checkpoint_path))
+    logging.info('{} epoch model loaded\n'.format(epoch))
+
+    # Validation
+
+    logging.info('Start validation...')
+    model.eval()
+
+    eval_loss, eval_accuracy = 0, 0
+    nb_eval_steps, nb_eval_examples = 0, 0
+
+    log_steps = 100
+
+    for step, batch in enumerate(val_dataloader):
         b_input_ids = batch[0].to(device)
         b_input_mask = batch[1].to(device)
         b_backgrounds = batch[2].to(device)
         b_labels = batch[3].to(device)
-        pred = model(b_input_ids, b_backgrounds, input_mask=b_input_mask).squeeze()
 
-        optimizer.zero_grad()
+        with torch.no_grad():
+            logits = model(b_input_ids, b_backgrounds, input_mask=b_input_mask).squeeze()
+            logits = logits.cpu().numpy()
+            logits = np.array(list(map(lambda x: 1 if x > 0 else 0, logits)))
+            print(logits)
+            label_ids = b_labels.cpu().numpy()
+            print(label_ids)
 
-        loss = F.binary_cross_entropy_with_logits(pred, b_labels.type(torch.float32), reduction='sum')
-        loss.backward()
-
-        torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
-
-        optimizer.step()
-
-        sum_loss += loss.item()
+            tmp_eval_accuracy = 0
+            for (logit, label) in zip(logits, label_ids):
+                tmp_eval_accuracy += int(logit == label)
+            eval_accuracy += tmp_eval_accuracy
+            nb_eval_steps += batch_size
 
         if step % log_steps == 0 and step:
-            logging.info('  Average loss: {}'.format(sum_loss / log_steps))
-            sum_loss = 0
+            logging.info('  Average accuracy: {}'.format(eval_accuracy / nb_eval_steps * 100))
 
-    checkpoint_filename = 'bert-location-prediction-transformer-epoch-{}.pt'.format(epoch)
-    torch.save(model.state_dict(), os.path.join('./{}'.format(CHECKPOINT_DIRECTORY), checkpoint_filename))
-    logging.info('\nCheckpoint \'{}\' saved\n'.format(checkpoint_filename))
+    epoch += each_epoch_checkpoint
+
+    logging.info("Validation accuracy for epoch {0}: {0:.2f}%".format(epoch, eval_accuracy / nb_eval_steps * 100))
 
 logging.info('Finish time: {}'.format(datetime.now()))
 logging.info('{} Finish {}'.format(5 * '=', 5 * '='))
