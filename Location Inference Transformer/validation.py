@@ -7,11 +7,11 @@ import numpy as np
 
 from string import punctuation
 from datetime import datetime
-from torch.utils.data import TensorDataset, random_split, DataLoader, RandomSampler
+from torch.utils.data import TensorDataset, DataLoader, RandomSampler
 from transformers import BertTokenizer
 
 from embedding.embedding import vocabulary_from_texts, VocabularyEmbedding
-from model import BERT
+from model import LIT
 
 # Logging
 
@@ -62,7 +62,7 @@ for text in texts:
         text,  # Sentence to encode.
         add_special_tokens=True,  # Add '[CLS]' and '[SEP]'
         max_length=max_length,  # Pad & truncate all sentences.
-        pad_to_max_length=True,
+        padding='max_length',
         return_attention_mask=True,  # Construct attn. masks.
         return_tensors='pt',  # Return pytorch tensors.
     )
@@ -111,7 +111,7 @@ logging.info('\nDataloader created.\n')
 
 logging.info('{} Initializing model {}'.format(5 * '=', 5 * '='))
 
-model = BERT(embedding.vocabulary_length, 256)
+model = LIT(embedding.vocabulary_length, 256)
 
 logging.info('BERT for prediction initialized\n')
 
