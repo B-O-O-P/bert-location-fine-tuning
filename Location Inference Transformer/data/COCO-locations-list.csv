@@ -1,4 +1,4 @@
-Location,Count,,Location(Before),Count(Before),Comment
+location,count,,Location(Before),Count(Before),Comment
 top,897,,top,897,
 field,893,,field,888,
 street,853,,street,831,
@@ -149,4 +149,3 @@ skyline,9,,entrance,9,
 valley,9,,factory,9,
 factory,9,,valley,9,
 swamp,9,,swamp,9,
-,16088,,,15541,

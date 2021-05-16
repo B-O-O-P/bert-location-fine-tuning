@@ -38,11 +38,14 @@ un_texts = list(data['cap'])
 un_backgrounds = list(data['location'])
 un_labels = list(data['binary'])
 
+filter_data = pd.read_csv('data/COCO-locations-list.csv')
+un_filter_locations = list(filter_data['location'])
+
 # Prepare data
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
 
-vocabulary = vocabulary_from_texts(un_texts + un_backgrounds)
+vocabulary = vocabulary_from_texts(un_texts + un_backgrounds + un_filter_locations)
 
 embedding_size = 256
 
@@ -115,7 +118,7 @@ logging.info('{} Initializing model {}'.format(5 * '=', 5 * '='))
 
 model = LIT(embedding.vocabulary_length, 256)
 
-logging.info('BERT for prediction initialized\n')
+logging.info('Model for inference initialized\n')
 
 # Select device
 
