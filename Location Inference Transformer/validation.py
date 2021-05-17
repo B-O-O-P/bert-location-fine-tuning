@@ -189,9 +189,7 @@ while epoch < total_epochs:
             logits = model(b_input_ids, b_backgrounds, input_mask=b_input_mask).squeeze()
             logits = logits.cpu().numpy()
             logits = np.array(list(map(lambda x: 1 if x > 0 else 0, logits)))
-            print(logits)
             label_ids = b_labels.cpu().numpy()
-            print(label_ids)
 
             tmp_eval_accuracy = 0
             for (logit, label) in zip(logits, label_ids):
@@ -204,7 +202,7 @@ while epoch < total_epochs:
 
     epoch += each_epoch_checkpoint
 
-    logging.info("Validation accuracy for epoch {0}: {0:.2f}%".format(epoch, eval_accuracy / nb_eval_steps * 100))
+    logging.info("Validation accuracy for epoch {0}: {1:.2f}\n%".format(epoch, eval_accuracy / nb_eval_steps * 100))
 
 logging.info('Finish time: {}'.format(datetime.now()))
 logging.info('{} Finish {}'.format(5 * '=', 5 * '='))
