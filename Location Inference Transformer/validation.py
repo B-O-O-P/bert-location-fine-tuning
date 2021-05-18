@@ -158,7 +158,7 @@ epoch = 10
 each_epoch_checkpoint = 10
 total_epochs = 50
 
-while epoch < total_epochs:
+while epoch <= total_epochs:
     # Load model state
 
     CHECKPOINT_FILENAME = 'bert-location-inference-transformer-epoch-{}.pt'.format(epoch)
