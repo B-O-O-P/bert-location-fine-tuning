@@ -13,7 +13,7 @@ from transformers import BertTokenizer
 from model import LET
 
 # Logging
-from utils import one_hot_location
+from utils import one_hot_location, extraction_accuracy
 
 LOG_DIRECTORY = 'logs'
 LOG_FILENAME = 'validation-log.txt'
@@ -177,7 +177,7 @@ while epoch <= total_epochs:
 
             tmp_eval_accuracy = 0
             for (logit, label) in zip(logits, label_ids):
-                tmp_eval_accuracy += int(logit == label)
+                tmp_eval_accuracy += extraction_accuracy(logit, label, verbose=False)
             eval_accuracy += tmp_eval_accuracy
             nb_eval_steps += batch_size
 
