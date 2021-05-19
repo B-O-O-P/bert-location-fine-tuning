@@ -10,10 +10,10 @@ from datetime import datetime
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler
 from transformers import BertTokenizer
 
-from embedding.embedding import vocabulary_from_texts, VocabularyEmbedding
-from model import LIT
+from model import LET
 
 # Logging
+from utils import one_hot_location
 
 LOG_DIRECTORY = 'logs'
 LOG_FILENAME = 'validation-log.txt'
@@ -23,38 +23,21 @@ if not os.path.exists(LOG_DIRECTORY):
 
 logging.basicConfig(filename='{}/{}'.format(LOG_DIRECTORY, LOG_FILENAME), filemode='a', level=logging.INFO, format='%(message)s')
 
-logging.info('{} BERT INFERENCE FINE-TUNING {}'.format(8 * '=', 8 * '='))
+logging.info('{} BERT EXTRACTION FINE-TUNING {}'.format(8 * '=', 8 * '='))
 logging.info('Start time: {}\n'.format(datetime.now()))
 
 # Data
 
 logging.info('{} Preparing data {}'.format(5 * '=', 5 * '='))
 
-data = pd.read_csv('data/COCO-locations-validation-filtered-negative-sampling.csv')
-
-vocabulary_data = pd.read_csv('data/COCO-locations-filtered-negative-sampling.csv')
+data = pd.read_csv('data/COCO-locations-validation.csv')
 
 un_texts = list(data['cap'])
-un_backgrounds = list(data['location'])
-un_labels = list(data['binary'])
-
-vocabulary_texts = list(vocabulary_data['cap'])
-vocabulary_backgrounds = list(vocabulary_data['location'])
-
-filter_data = pd.read_csv('data/COCO-locations-list.csv')
-un_filter_locations = list(filter_data['location'])
+un_labels = list(data['location'])
 
 # Prepare data
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
-
-vocabulary = vocabulary_from_texts(vocabulary_texts + vocabulary_backgrounds + un_filter_locations)
-
-embedding_size = 256
-
-embedding = VocabularyEmbedding(vocabulary, embedding_size)
-
-logging.info('Vocabulary: size {}\n'.format(embedding.vocabulary_length))
 
 # Tokenizing texts
 
@@ -83,17 +66,19 @@ attention_masks = torch.cat(attention_masks, dim=0)
 
 logging.info('Texts tokenized')
 
-# Tokenize backgrounds
-
-backgrounds = [embedding.word_to_ix[background] for background in un_backgrounds]
-backgrounds = np.array(backgrounds)
-backgrounds = torch.tensor(backgrounds)
-
-logging.info('Backgrounds tokenized')
-
 # Get labels
 
-labels = torch.tensor(un_labels)
+un_labels = list(map(lambda array_str: array_str[1:-1].split(', '), un_labels))
+un_labels = list(map(lambda array: list(map(lambda str: str[1:-1], array)), un_labels))
+
+decoded_texts = list(map(lambda id: tokenizer.decode(id), input_ids))
+
+labels = []
+for i in range(len(un_labels)):
+    label = un_labels[i]
+    labels.append(one_hot_location(decoded_texts[i], label))
+
+labels = torch.tensor(labels)
 
 logging.info('Labels tokenized\n')
 
@@ -102,7 +87,7 @@ logging.info('Labels tokenized\n')
 batch_size = 32
 N = len(texts)
 
-dataset = TensorDataset(input_ids, attention_masks, backgrounds, labels)
+dataset = TensorDataset(input_ids, attention_masks, labels)
 
 logging.info('Dataset created')
 logging.info('Dataset length: {}'.format(len(dataset)))
@@ -119,9 +104,9 @@ logging.info('\nDataloader created.\n')
 
 logging.info('{} Initializing model {}'.format(5 * '=', 5 * '='))
 
-model = LIT(embedding.vocabulary_length, 256)
+model = LET()
 
-logging.info('BERT for prediction initialized\n')
+logging.info('Model for extraction initialized\n')
 
 # Select device
 
@@ -161,7 +146,7 @@ total_epochs = 50
 while epoch <= total_epochs:
     # Load model state
 
-    CHECKPOINT_FILENAME = 'bert-location-inference-transformer-epoch-{}.pt'.format(epoch)
+    CHECKPOINT_FILENAME = 'bert-location-extraction-transformer-epoch-{}.pt'.format(epoch)
     checkpoint_path = '{}/{}'.format(CHECKPOINT_DIRECTORY, CHECKPOINT_FILENAME)
 
     model.load_state_dict(torch.load(checkpoint_path))
@@ -182,11 +167,10 @@ while epoch <= total_epochs:
     for step, batch in enumerate(val_dataloader):
         b_input_ids = batch[0].to(device)
         b_input_mask = batch[1].to(device)
-        b_backgrounds = batch[2].to(device)
-        b_labels = batch[3].to(device)
+        b_labels = batch[2].to(device)
 
         with torch.no_grad():
-            logits = model(b_input_ids, b_backgrounds, input_mask=b_input_mask).squeeze()
+            logits = model(b_input_ids, input_mask=b_input_mask).squeeze()
             logits = logits.cpu().numpy()
             logits = np.array(list(map(lambda x: 1 if x > 0 else 0, logits)))
             label_ids = b_labels.cpu().numpy()
