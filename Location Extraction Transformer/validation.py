@@ -162,7 +162,7 @@ while epoch <= total_epochs:
     eval_loss, eval_accuracy = 0, 0
     nb_eval_steps, nb_eval_examples = 0, 0
 
-    log_steps = 100
+    log_steps = 5
 
     for step, batch in enumerate(val_dataloader):
         b_input_ids = batch[0].to(device)
