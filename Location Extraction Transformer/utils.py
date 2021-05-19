@@ -1,7 +1,8 @@
 import numpy as np
 
-from nltk import WordNetLemmatizer
+from nltk import download, WordNetLemmatizer
 
+download('wordnet')
 
 MAX_WORDS = 256
 
