@@ -172,7 +172,7 @@ while epoch <= total_epochs:
         with torch.no_grad():
             logits = model(b_input_ids, input_mask=b_input_mask).squeeze()
             logits = logits.cpu().numpy()
-            logits = np.array(list(map(lambda x: 1 if x > 0 else 0, logits)))
+            logits = np.array([np.array(list(map(lambda x: 1 if x > 0 else 0, l))) for l in logits])
             label_ids = b_labels.cpu().numpy()
 
             tmp_eval_accuracy = 0
