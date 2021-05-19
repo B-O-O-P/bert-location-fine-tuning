@@ -186,7 +186,7 @@ while epoch <= total_epochs:
 
     epoch += each_epoch_checkpoint
 
-    logging.info("Validation accuracy for epoch {0}: {1:.2f}\n%".format(epoch, eval_accuracy / nb_eval_steps * 100))
+    logging.info("Validation accuracy for epoch {0}: {1:.2f}%\n".format(epoch, eval_accuracy / nb_eval_steps * 100))
 
 logging.info('Finish time: {}'.format(datetime.now()))
 logging.info('{} Finish {}'.format(5 * '=', 5 * '='))
