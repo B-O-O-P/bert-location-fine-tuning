@@ -251,6 +251,7 @@ for i in range(len(un_labels)):
     label_array = un_labels[i]
     label_str = " ".join(label_array)
     encoded_label = tokenizer.encode_plus(
+        label_str,
         add_special_tokens=False,
         return_tensors='pt'
     )
