@@ -380,7 +380,7 @@ while epoch <= total_epochs:
 
             tmp_eval_accuracy = 0
             for (relevances, label) in zip(max_relevances, label_ids):
-                if label in relevances[-10:]:
+                if label in relevances[-3:]:
                     tmp_eval_accuracy += 1
             eval_accuracy += tmp_eval_accuracy
             nb_eval_steps += batch_size
