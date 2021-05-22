@@ -360,7 +360,7 @@ while epoch <= total_epochs:
     eval_loss, eval_accuracy = 0, 0
     nb_eval_steps, nb_eval_examples = 0, 0
 
-    for step, batch in enumerate(test_ext_dataloader):
+    for step, batch in enumerate(test_inf_dataloader):
         b_input_ids = batch[0].to(device)
         b_input_mask = batch[1].to(device)
         b_labels = batch[2].to(device)
