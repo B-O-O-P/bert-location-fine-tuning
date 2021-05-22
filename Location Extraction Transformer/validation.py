@@ -120,9 +120,9 @@ else:
     device = torch.device("cpu")
     logging.info('Device: cpu\n')
 
-# Training params
+# Validation params
 
-log_steps = 100
+log_steps = 25
 sum_loss = 0
 
 logging.info('Validation params:')
