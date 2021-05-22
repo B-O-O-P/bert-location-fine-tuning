@@ -182,7 +182,7 @@ while epoch <= total_epochs:
     CHECKPOINT_FILENAME = 'bert-location-inference-transformer-epoch-{}.pt'.format(epoch)
     checkpoint_path = '{}/{}'.format(CHECKPOINT_DIRECTORY, CHECKPOINT_FILENAME)
 
-    # model.load_state_dict(torch.load(checkpoint_path))
+    model.load_state_dict(torch.load(checkpoint_path))
 
     logging.info('Model loaded from file: {}'.format(checkpoint_path))
     logging.info('{} epoch model loaded\n'.format(epoch))
@@ -347,7 +347,7 @@ while epoch <= total_epochs:
     CHECKPOINT_FILENAME = 'bert-location-inference-transformer-epoch-{}.pt'.format(epoch)
     checkpoint_path = '{}/{}'.format(CHECKPOINT_DIRECTORY, CHECKPOINT_FILENAME)
 
-    # model.load_state_dict(torch.load(checkpoint_path))
+    model.load_state_dict(torch.load(checkpoint_path))
 
     logging.info('Model loaded from file: {}'.format(checkpoint_path))
     logging.info('{} epoch model loaded\n'.format(epoch))
@@ -380,7 +380,7 @@ while epoch <= total_epochs:
 
             tmp_eval_accuracy = 0
             for (relevances, label) in zip(max_relevances, label_ids):
-                if label in relevances[-3:]:
+                if label in relevances[-10:]:
                     tmp_eval_accuracy += 1
             eval_accuracy += tmp_eval_accuracy
             nb_eval_steps += batch_size
