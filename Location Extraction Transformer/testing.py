@@ -7,6 +7,7 @@ import numpy as np
 
 from string import punctuation
 from datetime import datetime
+
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler
 from transformers import BertTokenizer
 
@@ -192,7 +193,7 @@ while epoch <= total_epochs:
     if best_ext_accuracy is None or epoch_accuracy > best_ext_accuracy:
         best_ext_accuracy = epoch_accuracy
 
-    logging.info("Testing accuracy for epoch {0}: {1:.2f}%\n".format(epoch, eval_accuracy))
+    logging.info("Testing accuracy for epoch {0}: {1:.2f}%\n".format(epoch, epoch_accuracy))
 
 logging.info("Best accuracy on extraction part: {0:.2f}%\n".format(best_ext_accuracy))
 logging.info('Inference part finish time: {}'.format(datetime.now()))
@@ -207,6 +208,21 @@ data = pd.read_csv('data/COCO-locations-test-12.csv')
 
 un_texts = list(data['cap'])
 un_labels = list(data['location'])
+un_labels = list(map(lambda array_str: array_str[1:-1].split(', '), un_labels))
+un_labels = list(map(lambda array: list(map(lambda str: str[1:-1], array)), un_labels))
+
+t_texts = []
+t_labels = []
+
+for i in range(len(un_texts)):
+    text = un_texts[i]
+    label_array = un_labels[i]
+    for label in label_array:
+        t_texts.append(text)
+        t_labels.append(label)
+
+un_texts = t_texts
+un_labels = t_labels
 
 # Prepare data
 
@@ -241,23 +257,19 @@ logging.info('Texts tokenized')
 
 # Get labels
 
-un_labels = list(map(lambda array_str: array_str[1:-1].split(', '), un_labels))
-un_labels = list(map(lambda array: list(map(lambda str: str[1:-1], array)), un_labels))
-
 decoded_texts = list(map(lambda id: tokenizer.decode(id), input_ids))
 
 labels = []
 for i in range(len(un_labels)):
-    label_array = un_labels[i]
-    label_str = " ".join(label_array)
+    label = un_labels[i]
     encoded_label = tokenizer.encode_plus(
-        label_str,
+        label,
         add_special_tokens=False,
         return_tensors='pt'
     )
-    labels.append(encoded_label['input_ids'])
+    labels.append(encoded_label['input_ids'].unsqueeze(0))
 
-labels = torch.tensor(labels)
+labels = torch.cat(labels)
 
 logging.info('Labels tokenized\n')
 
@@ -335,15 +347,15 @@ while epoch <= total_epochs:
 
             tmp_eval_accuracy = 0
             for i in range(len(label_ids)):
-                logit = logit[i]
-                label = label_ids[i]
+                logit = logits[i]
+                label = label_ids[i][0]
                 ids = b_input_ids[i]
                 label_set = set()
 
                 for j in range(len(logit)):
                     mark = logit[j]
                     if mark == 1:
-                        label_set.add(input_ids[j])
+                        label_set.add(ids[j])
                 tmp_eval_accuracy += all(l in label_set for l in label)
             eval_accuracy += tmp_eval_accuracy
             nb_eval_steps += batch_size
@@ -355,10 +367,10 @@ while epoch <= total_epochs:
 
     epoch_accuracy = eval_accuracy / nb_eval_steps * 100
 
-    if best_inf_accuracy is None or epoch_accuracy > best_ext_accuracy:
+    if best_inf_accuracy is None or epoch_accuracy > best_inf_accuracy:
         best_inf_accuracy = epoch_accuracy
 
-    logging.info("Testing accuracy for epoch {0}: {1:.2f}%\n".format(epoch, eval_accuracy))
+    logging.info("Testing accuracy for epoch {0}: {1:.2f}%\n".format(epoch, epoch_accuracy))
 
 logging.info("Best accuracy on inference part: {0:.2f}%\n".format(best_inf_accuracy))
 logging.info('Inference part finish time: {}'.format(datetime.now()))
