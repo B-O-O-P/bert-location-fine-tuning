@@ -237,11 +237,11 @@ logging.info('Extraction part finish time: {}\n'.format(datetime.now()))
 
 # Inference part
 
-logging.info('{} EXTRACTION PART {}'.format(7 * '=', 7 * '='))
+logging.info('{} INFERENCE PART {}'.format(7 * '=', 7 * '='))
 
 logging.info('{} Preparing data {}'.format(5 * '=', 5 * '='))
 
-data = pd.read_csv('data/COCO-locations-test-20.csv')
+data = pd.read_csv('data/COCO-locations-test-12.csv')
 
 un_texts = list(data['cap'])
 un_labels = list(data['location'])
@@ -380,7 +380,7 @@ while epoch <= total_epochs:
 
             tmp_eval_accuracy = 0
             for (relevances, label) in zip(max_relevances, label_ids):
-                if label in relevances[-3:]:
+                if label in relevances[-10:]:
                     tmp_eval_accuracy += 1
             eval_accuracy += tmp_eval_accuracy
             nb_eval_steps += batch_size
