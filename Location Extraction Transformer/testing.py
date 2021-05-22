@@ -11,10 +11,10 @@ from datetime import datetime
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler
 from transformers import BertTokenizer
 
+from utils import one_hot_location, extraction_accuracy
 from model import LET
 
 # Logging
-from utils import one_hot_location, extraction_accuracy
 
 LOG_DIRECTORY = 'logs'
 LOG_FILENAME = 'testing-log.txt'
@@ -186,8 +186,6 @@ while epoch <= total_epochs:
         if step % log_steps == 0 and step:
             logging.info('  Average accuracy: {}'.format(eval_accuracy / nb_eval_steps * 100))
 
-    epoch += each_epoch_checkpoint
-
     epoch_accuracy = eval_accuracy / nb_eval_steps * 100
 
     if best_ext_accuracy is None or epoch_accuracy > best_ext_accuracy:
@@ -195,8 +193,10 @@ while epoch <= total_epochs:
 
     logging.info("Testing accuracy for epoch {0}: {1:.2f}%\n".format(epoch, epoch_accuracy))
 
+    epoch += each_epoch_checkpoint
+
 logging.info("Best accuracy on extraction part: {0:.2f}%\n".format(best_ext_accuracy))
-logging.info('Inference part finish time: {}'.format(datetime.now()))
+logging.info('Extraction part finish time: {}\n'.format(datetime.now()))
 
 # Inference part
 
@@ -373,7 +373,7 @@ while epoch <= total_epochs:
     logging.info("Testing accuracy for epoch {0}: {1:.2f}%\n".format(epoch, epoch_accuracy))
 
 logging.info("Best accuracy on inference part: {0:.2f}%\n".format(best_inf_accuracy))
-logging.info('Inference part finish time: {}'.format(datetime.now()))
+logging.info('Inference part finish time: {}\n'.format(datetime.now()))
 
 logging.info('Finish time: {}'.format(datetime.now()))
 logging.info('{} Finish {}'.format(5 * '=', 5 * '='))
