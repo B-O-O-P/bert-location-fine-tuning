@@ -34,23 +34,17 @@ logging.info('{} Preparing data {}'.format(5 * '=', 5 * '='))
 
 data = pd.read_csv('data/COCO-locations-train-filtered-negative-sampling.csv')
 
-vocabulary_data = pd.read_csv('data/COCO-locations-filtered-negative-sampling.csv')
+vocabulary_data = pd.read_csv('data/COCO-locations-vocabulary.csv')
 
 un_texts = list(data['cap'])
 un_backgrounds = list(data['location'])
 un_labels = list(data['binary'])
 
-vocabulary_texts = list(vocabulary_data['cap'])
-vocabulary_backgrounds = list(vocabulary_data['location'])
-
-filter_data = pd.read_csv('data/COCO-locations-list.csv')
-un_filter_locations = list(filter_data['location'])
+vocabulary = set(vocabulary_data['words'])
 
 # Prepare data
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
-
-vocabulary = vocabulary_from_texts(vocabulary_texts + vocabulary_backgrounds + un_filter_locations)
 
 embedding_size = 256
 

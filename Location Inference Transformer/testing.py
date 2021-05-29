@@ -29,16 +29,13 @@ logging.info('Start time: {}\n'.format(datetime.now()))
 
 # Prepare vocabulary
 
-vocabulary_data = pd.read_csv('data/COCO-locations-filtered-negative-sampling.csv')
-vocabulary_texts = list(vocabulary_data['cap'])
-vocabulary_backgrounds = list(vocabulary_data['location'])
+vocabulary_data = pd.read_csv('data/COCO-locations-vocabulary.csv')
+vocabulary = set(vocabulary_data['words'])
 
 filter_data = pd.read_csv('data/COCO-locations-list.csv')
 un_filter_locations = list(filter_data['location'])
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
-
-vocabulary = vocabulary_from_texts(vocabulary_texts + vocabulary_backgrounds + un_filter_locations)
 
 embedding_size = 256
 
